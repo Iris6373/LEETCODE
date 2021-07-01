@@ -7,6 +7,7 @@
 - [74. Search a 2D Matrix](/ARRAYS/74.md) (Medium)
 - [240. Search a 2D Matrix II](/ARRAYS/240.md) (Medium)
 - [289. Game of Life](/ARRAYS/289.md) (Medium)
+- [1011. Capacity To Ship Packages Within D Days](/ARRAYS/1011.md) (Medium)
 - [1913. Maximum Product Difference Between Two Pairs](/Contests/Weekly_Contest_247/1913.md) (Easy)
 - [1914. Cyclically Rotating a Grid](/Contests/Weekly_Contest_247/1914.md) (Medium)
 
