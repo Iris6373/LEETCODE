@@ -1,7 +1,7 @@
 # Leetcode solutions in C++
 
 
-#### [Arrays](/ARRAYS)
+## [Arrays](/ARRAYS)
 
 - [33. Search in Rotated Sorted Array](/ARRAYS/33.md) (Medium)
 - [34. Find First and Last Position of Element in Sorted Array](/ARRAYS/34.md) (Medium)
@@ -18,17 +18,22 @@
 - [1921. Eliminate Maximum Number of Monsters](/Contests/Weekly_Contest_248/1921.md) (Medium)
 
 
-#### [Bit_Manipulation](/Bit_Manipulation)
+### [Binary Search](/Binary_Search)
+
+- [278. First Bad Version](/Binary_Search/278.md) (Easy)
+
+
+### [Bit_Manipulation](/Bit_Manipulation)
 
 - [89. Gray Code](Bit_Manipulation/89.md) (Medium)
 
 
-#### [Math](/Contests/Weekly_Contest_248/1922.md)
+### [Math](/Contests/Weekly_Contest_248/1922.md)
 
 - [1922. Count Good Numbers](/Contests/Weekly_Contest_248/1922.md) (Medium)
 
 
-#### [Strings](/Strings)
+### [Strings](/Strings)
 
 - [1047. Remove All Adjacent Duplicates In String](/Strings/1047.md) (Easy)
 - [1209. Remove All Adjacent Duplicates in String II](/Strings/1209.md) (Medium)
