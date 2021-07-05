@@ -15,6 +15,8 @@
 - [1913. Maximum Product Difference Between Two Pairs](/Contests/Weekly_Contest_247/1913.md) (Easy)
 - [1914. Cyclically Rotating a Grid](/Contests/Weekly_Contest_247/1914.md) (Medium)
 - [1920. Build Array from Permutation](/Contests/Weekly_Contest_248/1920.md) (Easy)
+- [1921. Eliminate Maximum Number of Monsters](/Contests/Weekly_Contest_248/1921.md) (Medium)
+- 
 
 
 #### [Bit_Manipulation](/Bit_Manipulation)
