@@ -23,7 +23,7 @@
 - [278. First Bad Version](/Binary_Search/278.md) (Easy)
 
 
-### [Bit_Manipulation](/Bit_Manipulation)
+### [Bit Manipulation](/Bit_Manipulation)
 
 - [89. Gray Code](Bit_Manipulation/89.md) (Medium)
 
