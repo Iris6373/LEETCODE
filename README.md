@@ -14,6 +14,7 @@
 - [566. Reshape the Matrix](/ARRAYS/566.md) (Easy)
 - [658. Find K Closest Elements](/ARRAYS/658.md) (Medium)
 - [1011. Capacity To Ship Packages Within D Days](/ARRAYS/1011.md) (Medium)
+- [1329. Sort the Matrix Diagonally](/ARRAYS/1329.md) (Medium)
 - [1913. Maximum Product Difference Between Two Pairs](/Contests/Weekly_Contest_247/1913.md) (Easy)
 - [1914. Cyclically Rotating a Grid](/Contests/Weekly_Contest_247/1914.md) (Medium)
 - [1920. Build Array from Permutation](/Contests/Weekly_Contest_248/1920.md) (Easy)
