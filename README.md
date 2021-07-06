@@ -23,6 +23,7 @@
 ### [Hash Table](/Hash_Table)
 
 - [1338. Reduce Array Size to The Half](/Hash_Table/1338.md) (Medium)
+- [1636. Sort Array by Increasing Frequency](/Hash_Table/1636.md)  (Easy)
 
 
 ### [Binary Search](/Binary_Search)
