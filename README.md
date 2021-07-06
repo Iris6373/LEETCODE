@@ -42,7 +42,7 @@
 
 ### [Math](/Math)
 
-- [1276. Number of Burgers with No Waste of Ingredients] (/Math/1276.md) (Easy)
+- [1276. Number of Burgers with No Waste of Ingredients](/Math/1276.md) (Easy)
 - [1922. Count Good Numbers](/Contests/Weekly_Contest_248/1922.md) (Medium)
 
 
