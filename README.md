@@ -20,6 +20,11 @@
 - [1921. Eliminate Maximum Number of Monsters](/Contests/Weekly_Contest_248/1921.md) (Medium)
 
 
+### [Hash Table](/Hash_Table)
+
+- [1338. Reduce Array Size to The Half](/Hash_Table/1338.md) (Medium)
+
+
 ### [Binary Search](/Binary_Search)
 
 - [278. First Bad Version](/Binary_Search/278.md) (Easy)
