@@ -13,6 +13,7 @@
 - [485. Max Consecutive Ones](/ARRAYS/485.md) (Easy)
 - [566. Reshape the Matrix](/ARRAYS/566.md) (Easy)
 - [658. Find K Closest Elements](/ARRAYS/658.md) (Medium)
+- [883. Projection Area of 3D Shapes](/ARRAYS/883.md) (Easy)
 - [1011. Capacity To Ship Packages Within D Days](/ARRAYS/1011.md) (Medium)
 - [1329. Sort the Matrix Diagonally](/ARRAYS/1329.md) (Medium)
 - [1913. Maximum Product Difference Between Two Pairs](/Contests/Weekly_Contest_247/1913.md) (Easy)
