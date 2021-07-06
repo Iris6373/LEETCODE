@@ -39,3 +39,8 @@
 
 - [1047. Remove All Adjacent Duplicates In String](/Strings/1047.md) (Easy)
 - [1209. Remove All Adjacent Duplicates in String II](/Strings/1209.md) (Medium)
+
+
+### [Dynamic Programming](/Dynamic_Programming)
+- [1220. Count Vowels Permutation](/Dynamic_Programming/1220.md) (Hard)
+
