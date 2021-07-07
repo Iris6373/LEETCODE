@@ -30,6 +30,11 @@
 - [1636. Sort Array by Increasing Frequency](/Hash_Table/1636.md)  (Easy)
 
 
+### [Prefix Sum](/Prefix_Sum)
+
+- [724. Find Pivot Index](/Prefix_Sum/724.md) (Easy)
+
+
 ### [Binary Search](/Binary_Search)
 
 - [278. First Bad Version](/Binary_Search/278.md) (Easy)
