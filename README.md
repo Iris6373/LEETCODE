@@ -33,6 +33,7 @@
 ### [Prefix Sum](/Prefix_Sum)
 
 - [724. Find Pivot Index](/Prefix_Sum/724.md) (Easy)
+- [1413. Minimum Value to Get Positive Step by Step Sum](/Prefix_Sum/1413.md) (Easy)
 
 
 ### [Binary Search](/Binary_Search)
