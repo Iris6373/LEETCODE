@@ -65,5 +65,6 @@
 
 
 ### [Dynamic Programming](/Dynamic_Programming)
+
 - [1220. Count Vowels Permutation](/Dynamic_Programming/1220.md) (Hard)
 
