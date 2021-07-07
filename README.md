@@ -3,6 +3,7 @@
 
 ## [Arrays](/ARRAYS)
 
+- [31. Next Permutation](/ARRAYS/31.md) (Medium)
 - [33. Search in Rotated Sorted Array](/ARRAYS/33.md) (Medium)
 - [34. Find First and Last Position of Element in Sorted Array](/ARRAYS/34.md) (Medium)
 - [74. Search a 2D Matrix](/ARRAYS/74.md) (Medium)
