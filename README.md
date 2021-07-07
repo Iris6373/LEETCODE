@@ -15,7 +15,6 @@
 - [658. Find K Closest Elements](/ARRAYS/658.md) (Medium)
 - [883. Projection Area of 3D Shapes](/ARRAYS/883.md) (Easy)
 - [1011. Capacity To Ship Packages Within D Days](/ARRAYS/1011.md) (Medium)
-- [1053. Previous Permutation With One Swap](/ARRAYS/1053.md) (Medium)
 - [1329. Sort the Matrix Diagonally](/ARRAYS/1329.md) (Medium)
 - [1913. Maximum Product Difference Between Two Pairs](/Contests/Weekly_Contest_247/1913.md) (Easy)
 - [1914. Cyclically Rotating a Grid](/Contests/Weekly_Contest_247/1914.md) (Medium)
@@ -57,6 +56,11 @@
 
 - [1047. Remove All Adjacent Duplicates In String](/Strings/1047.md) (Easy)
 - [1209. Remove All Adjacent Duplicates in String II](/Strings/1209.md) (Medium)
+
+
+### [Greedy](/Greedy)
+
+- [1053. Previous Permutation With One Swap](/Greedy/1053.md) (Medium)
 
 
 ### [Dynamic Programming](/Dynamic_Programming)
