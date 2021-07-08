@@ -46,6 +46,9 @@
 ### [Bit Manipulation](/Bit_Manipulation)
 
 - [89. Gray Code](Bit_Manipulation/89.md) (Medium)
+- [136. Single Number](Bit_Manipulation/136.md) (Easy)
+- [268. Missing Number](Bit_Manipulation/268.md) (Easy)
+- [645. Set Mismatch](Bit_Manipulation/645.md) (Easy)
 
 
 ### [Math](/Math)
