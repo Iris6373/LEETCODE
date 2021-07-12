@@ -59,6 +59,7 @@
 
 ### [Strings](/Strings)
 
+- [205. Isomorphic Strings](/Strings/205.md) (Easy)
 - [1047. Remove All Adjacent Duplicates In String](/Strings/1047.md) (Easy)
 - [1209. Remove All Adjacent Duplicates in String II](/Strings/1209.md) (Medium)
 
