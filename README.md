@@ -10,7 +10,6 @@
 - [566. Reshape the Matrix](/ARRAYS/566.md) (Easy)
 - [658. Find K Closest Elements](/ARRAYS/658.md) (Medium)
 - [883. Projection Area of 3D Shapes](/ARRAYS/883.md) (Easy)
-- [1011. Capacity To Ship Packages Within D Days](/ARRAYS/1011.md) (Medium)
 - [1222. Queens That Can Attack the King](/ARRAYS/1222.md) (Medium)
 - [1329. Sort the Matrix Diagonally](/ARRAYS/1329.md) (Medium)
 - [1913. Maximum Product Difference Between Two Pairs](/Contests/Weekly_Contest_247/1913.md) (Easy)
@@ -41,6 +40,7 @@
 - [153. Find Minimum in Rotated Sorted Array](/ARRAYS/153.md) (Medium)
 - [240. Search a 2D Matrix II](/ARRAYS/240.md) (Medium)
 - [278. First Bad Version](/Binary_Search/278.md) (Easy)
+- [1011. Capacity To Ship Packages Within D Days](/ARRAYS/1011.md) (Medium)
 
 
 ### [Bit Manipulation](/Bit_Manipulation)
