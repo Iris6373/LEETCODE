@@ -32,6 +32,11 @@
 - [1413. Minimum Value to Get Positive Step by Step Sum](/Prefix_Sum/1413.md) (Easy)
 
 
+### [Two Pointers](/Two_Pointers)
+
+- [611. Valid Triangle Number](/Two_Pointers) (Medium)
+
+
 ### [Binary Search](/Binary_Search)
 
 - [33. Search in Rotated Sorted Array](/ARRAYS/33.md) (Medium)
