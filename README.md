@@ -3,7 +3,6 @@
 
 ## [Arrays](/ARRAYS)
 
-- [31. Next Permutation](/ARRAYS/31.md) (Medium)
 - [75. Sort Colors](/ARRAYS/75.md) (Medium)
 - [289. Game of Life](/ARRAYS/289.md) (Medium)
 - [485. Max Consecutive Ones](/ARRAYS/485.md) (Easy)
@@ -34,6 +33,7 @@
 
 ### [Two Pointers](/Two_Pointers)
 
+- [31. Next Permutation](/ARRAYS/31.md) (Medium)
 - [611. Valid Triangle Number](/Two_Pointers) (Medium)
 
 
