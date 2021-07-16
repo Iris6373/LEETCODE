@@ -5,6 +5,7 @@
 
 - [75. Sort Colors](/ARRAYS/75.md) (Medium)
 - [289. Game of Life](/ARRAYS/289.md) (Medium)
+- [448. Find All Numbers Disappeared in an Array](/ARRAYS/448.md) (Easy)
 - [485. Max Consecutive Ones](/ARRAYS/485.md) (Easy)
 - [566. Reshape the Matrix](/ARRAYS/566.md) (Easy)
 - [658. Find K Closest Elements](/ARRAYS/658.md) (Medium)
