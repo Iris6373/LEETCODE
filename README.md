@@ -3,6 +3,7 @@
 
 ## [Arrays](/ARRAYS)
 
+- [41. First Missing Positive](/ARRAYS/41.md) (Hard)
 - [75. Sort Colors](/ARRAYS/75.md) (Medium)
 - [289. Game of Life](/ARRAYS/289.md) (Medium)
 - [448. Find All Numbers Disappeared in an Array](/ARRAYS/448.md) (Easy)
