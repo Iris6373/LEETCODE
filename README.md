@@ -21,6 +21,7 @@
 
 ### [Hash Table](/Hash_Table)
 
+- [1. Two Sum](/Hash_Table/1.md)  (Easy)
 - [387. First Unique Character in a String](/Hash_Table/387.md)  (Easy)
 - [451. Sort Characters By Frequency](/Hash_Table/451.md) (Medium)
 - [1338. Reduce Array Size to The Half](/Hash_Table/1338.md) (Medium)
