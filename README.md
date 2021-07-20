@@ -4,7 +4,7 @@
 ## [Arrays](/ARRAYS)
 
 - [41. First Missing Positive](/ARRAYS/41.md) (Hard)
-- [75. Sort Colors](/ARRAYS/75.md) (Medium)
+- [57. Insert Interval](/ARRAYS/57.md) (Medium)
 - [289. Game of Life](/ARRAYS/289.md) (Medium)
 - [448. Find All Numbers Disappeared in an Array](/ARRAYS/448.md) (Easy)
 - [485. Max Consecutive Ones](/ARRAYS/485.md) (Easy)
@@ -38,6 +38,7 @@
 ### [Two Pointers](/Two_Pointers)
 
 - [31. Next Permutation](/Two_Pointers/31.md) (Medium)
+- [75. Sort Colors](/Two_Pointers/75.md) (Medium)
 - [167. Two Sum II - Input array is sorted](/Two_Pointers/167.md) (Easy)
 - [611. Valid Triangle Number](/Two_Pointers/611.md) (Medium)
 
