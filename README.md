@@ -12,6 +12,7 @@
 - [495. Teemo Attacking](/ARRAYS/485.md) (Easy)
 - [566. Reshape the Matrix](/ARRAYS/566.md) (Easy)
 - [658. Find K Closest Elements](/ARRAYS/658.md) (Medium)
+- [763. Partition Labels](/ARRAYS/763.md) (Medium)
 - [883. Projection Area of 3D Shapes](/ARRAYS/883.md) (Easy)
 - [1222. Queens That Can Attack the King](/ARRAYS/1222.md) (Medium)
 - [1329. Sort the Matrix Diagonally](/ARRAYS/1329.md) (Medium)
