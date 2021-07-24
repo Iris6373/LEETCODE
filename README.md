@@ -15,6 +15,7 @@
 - [763. Partition Labels](/ARRAYS/763.md) (Medium)
 - [838. Push Dominoes](/ARRAYS/838.md) (Medium)
 - [883. Projection Area of 3D Shapes](/ARRAYS/883.md) (Easy)
+- [1007. Minimum Domino Rotations For Equal Row](/ARRAYS/1007.md) (Medium)
 - [1222. Queens That Can Attack the King](/ARRAYS/1222.md) (Medium)
 - [1329. Sort the Matrix Diagonally](/ARRAYS/1329.md) (Medium)
 - [1913. Maximum Product Difference Between Two Pairs](/Contests/Weekly_Contest_247/1913.md) (Easy)
