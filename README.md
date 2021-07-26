@@ -90,3 +90,7 @@
 
 - [1220. Count Vowels Permutation](/Dynamic_Programming/1220.md) (Hard)
 
+
+### [BFS](/BFS)
+
+- [994. Rotting Oranges](/BFS/994.md) (Medium)
