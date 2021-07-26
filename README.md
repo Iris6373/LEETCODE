@@ -31,6 +31,7 @@
 - [451. Sort Characters By Frequency](/Hash_Table/451.md) (Medium)
 - [1338. Reduce Array Size to The Half](/Hash_Table/1338.md) (Medium)
 - [1636. Sort Array by Increasing Frequency](/Hash_Table/1636.md)  (Easy)
+- [1726. Tuple with Same Product](/Hash_Table/1726.md) (Medium)
 
 
 ### [Prefix Sum](/Prefix_Sum)
