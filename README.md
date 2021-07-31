@@ -81,6 +81,11 @@
 - [1209. Remove All Adjacent Duplicates in String II](/Strings/1209.md) (Medium)
 
 
+### [Stack](/Stack)
+
+- [394. Decode String](/Stack/394.md) (Medium)
+
+
 ### [Greedy](/Greedy)
 
 - [1053. Previous Permutation With One Swap](/Greedy/1053.md) (Medium)
