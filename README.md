@@ -84,6 +84,7 @@
 ### [Stack](/Stack)
 
 - [394. Decode String](/Stack/394.md) (Medium)
+- [726. Number of Atoms](/Stack/726.md) (Hard)
 
 
 ### [Greedy](/Greedy)
