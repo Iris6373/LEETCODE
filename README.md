@@ -44,6 +44,7 @@
 ### [Two Pointers](/Two_Pointers)
 
 - [31. Next Permutation](/Two_Pointers/31.md) (Medium)
+- [42. Trapping Rain Water](/Two_Pointers/42.md) (Hard)
 - [75. Sort Colors](/Two_Pointers/75.md) (Medium)
 - [167. Two Sum II - Input array is sorted](/Two_Pointers/167.md) (Easy)
 - [611. Valid Triangle Number](/Two_Pointers/611.md) (Medium)
