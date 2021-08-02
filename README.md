@@ -101,3 +101,8 @@
 ### [BFS](/BFS)
 
 - [994. Rotting Oranges](/BFS/994.md) (Medium)
+
+
+### [DFS](/DFS)
+
+- [695. Max Area of Island](/DFS/695.md) (Medium)
