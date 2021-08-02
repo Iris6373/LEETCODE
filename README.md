@@ -106,6 +106,7 @@
 
 ### [DFS](/DFS)
 
+- [200. Number of Islands](/DFS/200.md) (Medium)
 - [463. Making A Large Island](/DFS/463.md) (Easy)
 - [695. Max Area of Island](/DFS/695.md) (Medium)
 - [827. Making A Large Island](/DFS/827.md) (Hard)
