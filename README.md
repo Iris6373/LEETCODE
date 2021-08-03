@@ -26,8 +26,9 @@
 
 ### [Hash Table](/Hash_Table)
 
-- [1. Two Sum](/Hash_Table/1.md)  (Easy)
-- [387. First Unique Character in a String](/Hash_Table/387.md)  (Easy)
+- [1. Two Sum](/Hash_Table/1.md) (Easy)
+- [242. Valid Anagram](/Hash_Table/242.md) (Easy)
+- [387. First Unique Character in a String](/Hash_Table/387.md) (Easy)
 - [451. Sort Characters By Frequency](/Hash_Table/451.md) (Medium)
 - [1338. Reduce Array Size to The Half](/Hash_Table/1338.md) (Medium)
 - [1636. Sort Array by Increasing Frequency](/Hash_Table/1636.md)  (Easy)
