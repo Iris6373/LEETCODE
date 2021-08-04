@@ -45,6 +45,11 @@
 - [1413. Minimum Value to Get Positive Step by Step Sum](/Prefix_Sum/1413.md) (Easy)
 
 
+### [Sliding Window](/Sliding_Window)
+
+- [76. Minimum Window Substring](/Sliding_Window/76.md) (Hard)
+
+
 ### [Two Pointers](/Two_Pointers)
 
 - [31. Next Permutation](/Two_Pointers/31.md) (Medium)
