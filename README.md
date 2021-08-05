@@ -93,6 +93,7 @@
 
 ### [Stack](/Stack)
 
+- [20. Valid Parentheses](/Stack/20.md) (Esy)
 - [394. Decode String](/Stack/394.md) (Medium)
 - [726. Number of Atoms](/Stack/726.md) (Hard)
 - [739. Daily Temperatures](/Stack/739.md) (Medium)
