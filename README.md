@@ -86,6 +86,7 @@
 
 ### [Strings](/Strings)
 
+- [38. Count and Say]/Strings/38.md) (Medium)
 - [205. Isomorphic Strings](/Strings/205.md) (Easy)
 - [1047. Remove All Adjacent Duplicates In String](/Strings/1047.md) (Easy)
 - [1209. Remove All Adjacent Duplicates in String II](/Strings/1209.md) (Medium)
@@ -99,6 +100,7 @@
 - [394. Decode String](/Stack/394.md) (Medium)
 - [726. Number of Atoms](/Stack/726.md) (Hard)
 - [739. Daily Temperatures](/Stack/739.md) (Medium)
+- [1003. Check If Word Is Valid After Substitutions](/Stack/1003.md) (Medium)
 
 
 ### [Greedy](/Greedy)
