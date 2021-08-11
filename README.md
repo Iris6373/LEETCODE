@@ -110,6 +110,12 @@
 - [1053. Previous Permutation With One Swap](/Greedy/1053.md) (Medium)
 
 
+### [Recursion](/Recursion)
+
+- [39. Combination Sum](/Recursion/39.md) (Medium)
+- [78. Subsets](/Recursion/78.md) (Medium)
+- [90. Subsets II](/Recursion/90.md) (Medium)
+
 ### [Dynamic Programming](/Dynamic_Programming)
 
 - [1220. Count Vowels Permutation](/Dynamic_Programming/1220.md) (Hard)
@@ -123,8 +129,6 @@
 
 ### [DFS](/DFS)
 
-- [78. Subsets](/DFS/78.md) (Medium)
-- [90. Subsets II](/DFS/90.md) (Medium)
 - [200. Number of Islands](/DFS/200.md) (Medium)
 - [463. Making A Large Island](/DFS/463.md) (Easy)
 - [695. Max Area of Island](/DFS/695.md) (Medium)
