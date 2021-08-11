@@ -113,6 +113,7 @@
 ### [Recursion](/Recursion)
 
 - [39. Combination Sum](/Recursion/39.md) (Medium)
+- [40. Combination Sum II](/Recursion/40.md) (Medium)
 - [78. Subsets](/Recursion/78.md) (Medium)
 - [90. Subsets II](/Recursion/90.md) (Medium)
 
