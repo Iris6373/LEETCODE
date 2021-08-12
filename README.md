@@ -33,6 +33,7 @@
 - [438. Find All Anagrams in a String](/Hash_Table/438.md) (Medium)
 - [451. Sort Characters By Frequency](/Hash_Table/451.md) (Medium)
 - [567. Permutation in String](/Hash_Table/567.md) (Medium)
+- [1282. Group the People Given the Group Size They Belong To](/Hash_Table/1282.md) (Medium)
 - [1338. Reduce Array Size to The Half](/Hash_Table/1338.md) (Medium)
 - [1636. Sort Array by Increasing Frequency](/Hash_Table/1636.md)  (Easy)
 - [1726. Tuple with Same Product](/Hash_Table/1726.md) (Medium)
