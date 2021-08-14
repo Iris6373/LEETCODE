@@ -120,6 +120,7 @@
 - [46. Permutations](/Recursion/46.md) (Medium)
 - [47. Permutations II](/Recursion/47.md) (Medium)
 - [51. N-Queens](/Recursion/51.md) (Hard)
+- [52. N-Queens II](/Recursion/52.md) (Hard)
 - [78. Subsets](/Recursion/78.md) (Medium)
 - [90. Subsets II](/Recursion/90.md) (Medium)
 - [216. Combination Sum III](/Recursion/216.md) (Medium)
