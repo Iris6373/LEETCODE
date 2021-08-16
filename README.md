@@ -44,6 +44,7 @@
 ### [Prefix Sum](/Prefix_Sum)
 
 - [238. Product of Array Except Self](/Prefix_Sum/238.md) (Medium)
+- [303. Range Sum Query - Immutable](/Prefix_Sum/303.md) (Easy)
 - [724. Find Pivot Index](/Prefix_Sum/724.md) (Easy)
 - [1413. Minimum Value to Get Positive Step by Step Sum](/Prefix_Sum/1413.md) (Easy)
 
