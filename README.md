@@ -115,6 +115,7 @@
 
 ### [Recursion and Backtracking](/Recursion)
 
+- [22. Generate Parentheses](/Recursion/22.md) (Medium)
 - [37. Sudoku Solver](/Recursion/37.md) (Hard)
 - [39. Combination Sum](/Recursion/39.md) (Medium)
 - [40. Combination Sum II](/Recursion/40.md) (Medium)
