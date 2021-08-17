@@ -130,6 +130,7 @@
 - [78. Subsets](/Recursion/78.md) (Medium)
 - [90. Subsets II](/Recursion/90.md) (Medium)
 - [216. Combination Sum III](/Recursion/216.md) (Medium)
+- [401. Binary Watch](/Recursion/401.md) (Easy)
 
 ### [Dynamic Programming](/Dynamic_Programming)
 
