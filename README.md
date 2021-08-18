@@ -80,6 +80,7 @@
 - [136. Single Number](Bit_Manipulation/136.md) (Easy)
 - [268. Missing Number](Bit_Manipulation/268.md) (Easy)
 - [645. Set Mismatch](Bit_Manipulation/645.md) (Easy)
+- [1255. Maximum Score Words Formed by Letter](Bit_Manipulation/1255.md) (Hard)
 
 
 ### [Math](/Math)
