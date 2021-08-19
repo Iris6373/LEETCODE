@@ -135,10 +135,16 @@
 - [1254. Number of Closed Islands](/Recursion/1254.md) (Medium)
 - [1286. Iterator for Combination](/Recursion/1286.md) (Medium)
 
+
 ### [Dynamic Programming](/Dynamic_Programming)
 
 - [91. Decode Ways](/Dynamic_Programming/91.md) (Medium)
 - [1220. Count Vowels Permutation](/Dynamic_Programming/1220.md) (Hard)
+
+
+### [Tree](/Tree)
+
+- [1448. Count Good Nodes in Binary Tree](/Tree/1448.md) (Medium) 
 
 
 ### [BFS](/BFS)
