@@ -144,6 +144,7 @@
 
 ### [Tree](/Tree)
 
+- [814. Binary Tree Pruning](/Tree/814.md) (Medium) 
 - [1448. Count Good Nodes in Binary Tree](/Tree/1448.md) (Medium) 
 
 
