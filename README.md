@@ -137,6 +137,7 @@
 
 ### [Dynamic Programming](/Dynamic_Programming)
 
+- [91. Decode Ways](/Dynamic_Programming/91.md) (Medium)
 - [1220. Count Vowels Permutation](/Dynamic_Programming/1220.md) (Hard)
 
 
