@@ -147,6 +147,7 @@
 - [98. Validate Binary Search Tree](/Tree/98.md) (Medium)
 - [662. Maximum Width of Binary Tree](/Tree/662.md) (Medium)
 - [814. Binary Tree Pruning](/Tree/814.md) (Medium) 
+- [1339. Maximum Product of Splitted Binary Tree](/Tree/1339.md) (Medium) 
 - [1448. Count Good Nodes in Binary Tree](/Tree/1448.md) (Medium) 
 
 
