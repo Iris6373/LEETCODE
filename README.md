@@ -118,6 +118,7 @@
 
 ### [Greedy](/Greedy)
 
+- [55. Jump Game](/Greedy/55.md) (Easy)
 - [1053. Previous Permutation With One Swap](/Greedy/1053.md) (Medium)
 
 
