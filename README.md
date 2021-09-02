@@ -149,6 +149,7 @@
 - [338. Counting Bits](/Dynamic_Programming/338.md) (Easy)
 - [746. Min Cost Climbing Stairs](/Dynamic_Programming/746.md) (Easy)
 - [1220. Count Vowels Permutation](/Dynamic_Programming/1220.md) (Hard)
+- [1277. Count Square Submatrices with All Ones](/Dynamic_Programming/1277.md) (Medium)
 
 
 ### [Tree](/Tree)
