@@ -53,6 +53,7 @@
 
 ### [Sliding Window](/Sliding_Window)
 
+- [3. Longest Substring Without Repeating Characters](/Sliding_Window/3.md) (Medium)
 - [76. Minimum Window Substring](/Sliding_Window/76.md) (Hard)
 
 
