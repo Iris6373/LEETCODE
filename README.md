@@ -121,6 +121,7 @@
 
 - [55. Jump Game](/Greedy/55.md) (Easy)
 - [1053. Previous Permutation With One Swap](/Greedy/1053.md) (Medium)
+- [1996. The Number of Weak Characters in the Game](/Greedy/1996.md) (Medium)
 
 
 ### [Recursion and Backtracking](/Recursion)
