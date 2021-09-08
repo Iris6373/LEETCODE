@@ -13,6 +13,7 @@
 - [495. Teemo Attacking](/ARRAYS/485.md) (Easy)
 - [566. Reshape the Matrix](/ARRAYS/566.md) (Easy)
 - [598. Range Addition II](/ARRAYS/598.md) (Easy)
+- [640. Solve the Equation](/ARRAYS/640.md) (Medium)
 - [658. Find K Closest Elements](/ARRAYS/658.md) (Medium)
 - [763. Partition Labels](/ARRAYS/763.md) (Medium)
 - [838. Push Dominoes](/ARRAYS/838.md) (Medium)
