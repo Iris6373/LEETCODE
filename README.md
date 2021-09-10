@@ -6,6 +6,7 @@
 - [41. First Missing Positive](/ARRAYS/41.md) (Hard)
 - [56. Merge Intervals](/ARRAYS/56.md) (Medium)
 - [57. Insert Interval](/ARRAYS/57.md) (Medium)
+- [189. Rotate Array](/ARRAYS/189.md) (Medium)
 - [289. Game of Life](/ARRAYS/289.md) (Medium)
 - [419. Battleships in a Board](/ARRAYS/419.md) (Medium)
 - [448. Find All Numbers Disappeared in an Array](/ARRAYS/448.md) (Easy)
