@@ -10,7 +10,7 @@
 - [289. Game of Life](/ARRAYS/289.md) (Medium)
 - [419. Battleships in a Board](/ARRAYS/419.md) (Medium)
 - [448. Find All Numbers Disappeared in an Array](/ARRAYS/448.md) (Easy)
-- [485. Max Consecutive Ones](/ARRAYS/485.md) (Easy)
+- [485. Max Consecutive Ones](/ARRAYS/485.md) (Easy) 
 - [495. Teemo Attacking](/ARRAYS/485.md) (Easy)
 - [566. Reshape the Matrix](/ARRAYS/566.md) (Easy)
 - [598. Range Addition II](/ARRAYS/598.md) (Easy)
