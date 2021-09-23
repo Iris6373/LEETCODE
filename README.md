@@ -21,6 +21,7 @@
 - [883. Projection Area of 3D Shapes](/ARRAYS/883.md) (Easy)
 - [1007. Minimum Domino Rotations For Equal Row](/ARRAYS/1007.md) (Medium)
 - [1222. Queens That Can Attack the King](/ARRAYS/1222.md) (Medium)
+- [1275. Find Winner on a Tic Tac Toe Game](/ARRAYS/1275.md) (Easy)
 - [1329. Sort the Matrix Diagonally](/ARRAYS/1329.md) (Medium)
 - [1913. Maximum Product Difference Between Two Pairs](/Contests/Weekly_Contest_247/1913.md) (Easy)
 - [1914. Cyclically Rotating a Grid](/Contests/Weekly_Contest_247/1914.md) (Medium)
