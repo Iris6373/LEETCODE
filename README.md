@@ -158,6 +158,7 @@
 - [221. Maximal Square](/Dynamic_Programming/221.md) (Medium)
 - [338. Counting Bits](/Dynamic_Programming/338.md) (Easy)
 - [746. Min Cost Climbing Stairs](/Dynamic_Programming/746.md) (Easy)
+- [1137. N-th Tribonacci Number](/Dynamic_Programming/1137.md) (Easy)
 - [1220. Count Vowels Permutation](/Dynamic_Programming/1220.md) (Hard)
 - [1277. Count Square Submatrices with All Ones](/Dynamic_Programming/1277.md) (Medium)
 - [1641. Count Sorted Vowel Strings](/Dynamic_Programming/1641.md) (Medium)
