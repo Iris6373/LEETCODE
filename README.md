@@ -88,6 +88,7 @@
 - [268. Missing Number](Bit_Manipulation/268.md) (Easy)
 - [477. Total Hamming Distance](Bit_Manipulation/477.md) (Medium)
 - [645. Set Mismatch](Bit_Manipulation/645.md) (Easy)
+- [861. Score After Flipping Matrix](Bit_Manipulation/861.md) (Medium)
 - [1255. Maximum Score Words Formed by Letter](Bit_Manipulation/1255.md) (Hard)
 - [1318. Minimum Flips to Make a OR b Equal to c](Bit_Manipulation/1255.md) (Medium)
 - [1829. Maximum XOR for Each Query](Bit_Manipulation/1829.md) (Medium)
