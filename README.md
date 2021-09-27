@@ -91,6 +91,7 @@
 - [861. Score After Flipping Matrix](Bit_Manipulation/861.md) (Medium)
 - [1255. Maximum Score Words Formed by Letter](Bit_Manipulation/1255.md) (Hard)
 - [1318. Minimum Flips to Make a OR b Equal to c](Bit_Manipulation/1255.md) (Medium)
+- [1404. Number of Steps to Reduce a Number in Binary Representation to One](Bit_Manipulation/1404.md) (Medium)
 - [1829. Maximum XOR for Each Query](Bit_Manipulation/1829.md) (Medium)
 
 
