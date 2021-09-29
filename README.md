@@ -68,6 +68,7 @@
 - [167. Two Sum II - Input array is sorted](/Two_Pointers/167.md) (Easy)
 - [392. Is Subsequence](/Two_Pointers/392.md) (Easy)
 - [611. Valid Triangle Number](/Two_Pointers/611.md) (Medium)
+- [1004. Max Consecutive Ones III](/Two_Pointers/611.md) (Medium)
 
 
 ### [Binary Search](/Binary_Search)
