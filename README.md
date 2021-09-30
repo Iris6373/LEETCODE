@@ -109,6 +109,7 @@
 ### [Strings](/Strings)
 
 - [38. Count and Say](/Strings/38.md) (Medium)
+- [71. Simplify Path](/Strings/71.md) (Medium)
 - [205. Isomorphic Strings](/Strings/205.md) (Easy)
 - [415. Add Strings](/Strings/415.md) (Easy)
 - [443. String Compression](/Strings/433.md) (Medium)
