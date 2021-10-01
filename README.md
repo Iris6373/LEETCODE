@@ -166,6 +166,7 @@
 - [213. House Robber II](/Dynamic_Programming/213.md) (Medium)
 - [221. Maximal Square](/Dynamic_Programming/221.md) (Medium)
 - [338. Counting Bits](/Dynamic_Programming/338.md) (Easy)
+- [516. Longest Palindromic Subsequence](/Dynamic_Programming/516.md) (Medium)
 - [746. Min Cost Climbing Stairs](/Dynamic_Programming/746.md) (Easy)
 - [1137. N-th Tribonacci Number](/Dynamic_Programming/1137.md) (Easy)
 - [1143. Longest Common Subsequence](/Dynamic_Programming/1143.md) (Medium)
