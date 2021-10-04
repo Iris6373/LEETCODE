@@ -196,4 +196,5 @@
 - [463. Island Perimeter](/DFS/463.md) (Easy)
 - [695. Max Area of Island](/DFS/695.md) (Medium)
 - [827. Making A Large Island](/DFS/827.md) (Hard)
+- [1034. Coloring A Border](/DFS/1034.md) (Medium)
 - [1905. Count Sub Islands](/DFS/1905.md) (Medium)
