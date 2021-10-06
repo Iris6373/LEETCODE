@@ -10,6 +10,7 @@
 - [189. Rotate Array](/ARRAYS/189.md) (Medium)
 - [289. Game of Life](/ARRAYS/289.md) (Medium)
 - [419. Battleships in a Board](/ARRAYS/419.md) (Medium)
+- [442. Find All Duplicates in an Array](/ARRAYS/442.md) (Medium)
 - [448. Find All Numbers Disappeared in an Array](/ARRAYS/448.md) (Easy)
 - [485. Max Consecutive Ones](/ARRAYS/485.md) (Easy) 
 - [495. Teemo Attacking](/ARRAYS/485.md) (Easy)
