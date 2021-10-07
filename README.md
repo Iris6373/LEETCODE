@@ -154,6 +154,7 @@
 - [52. N-Queens II](/Recursion/52.md) (Hard)
 - [77. Combinations](/Recursion/77.md) (Medium)
 - [78. Subsets](/Recursion/78.md) (Medium)
+- [79. Word Search](/Recursion/79.md) (Medium)
 - [90. Subsets II](/Recursion/90.md) (Medium)
 - [216. Combination Sum III](/Recursion/216.md) (Medium)
 - [401. Binary Watch](/Recursion/401.md) (Easy)
