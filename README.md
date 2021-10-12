@@ -47,6 +47,7 @@
 - [1338. Reduce Array Size to The Half](/Hash_Table/1338.md) (Medium)
 - [1636. Sort Array by Increasing Frequency](/Hash_Table/1636.md)  (Easy)
 - [1726. Tuple with Same Product](/Hash_Table/1726.md) (Medium)
+- [2006. Count Number of Pairs With Absolute Difference K](/Contests/Biweekly_Contest_61/2007.md) (Medium)
 
 
 ### [Prefix Sum](/Prefix_Sum)
