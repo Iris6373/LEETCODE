@@ -32,6 +32,7 @@
 - [1974. Minimum Time to Type Word Using Special Typewriter](/Contests/Biweekly_Contest_59/1974.md) (Easy)
 - [1975. Maximum Matrix Sum](/Contests/Biweekly_Contest_59/1975.md) (Medium)
 - [2006. Count Number of Pairs With Absolute Difference K](/Contests/Biweekly_Contest_61/2006.md) (Easy)
+- [2037. Minimum Number of Moves to Seat Everyone](/Contests/Biweekly_Contest_63/2037.md) (Easy)
 
 
 ### [Hash Table](/Hash_Table)
