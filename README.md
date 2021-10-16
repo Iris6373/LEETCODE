@@ -65,6 +65,7 @@
 - [3. Longest Substring Without Repeating Characters](/Sliding_Window/3.md) (Medium)
 - [76. Minimum Window Substring](/Sliding_Window/76.md) (Hard)
 - [978. Longest Turbulent Subarray](/Sliding_Window/978.md) (Medium)
+- [2038. Remove Colored Pieces if Both Neighbors are the Same Color](/Contests/Biweekly_Contest_63/2038.md) (Medium)
 
 
 ### [Two Pointers](/Two_Pointers)
