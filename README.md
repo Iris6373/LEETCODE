@@ -49,6 +49,7 @@
 - [1636. Sort Array by Increasing Frequency](/Hash_Table/1636.md)  (Easy)
 - [1726. Tuple with Same Product](/Hash_Table/1726.md) (Medium)
 - [2006. Count Number of Pairs With Absolute Difference K](/Contests/Biweekly_Contest_61/2007.md) (Medium)
+- [2043. Simple Bank System](/Contests/Weekly_Contest_263/2043.md) (Medium)
 
 
 ### [Prefix Sum](/Prefix_Sum)
