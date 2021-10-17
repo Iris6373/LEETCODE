@@ -187,6 +187,7 @@
 ### [Tree](/Tree)
 
 - [98. Validate Binary Search Tree](/Tree/98.md) (Medium)
+- [112. Path Sum](/Tree/112.md) (Easy)
 - [662. Maximum Width of Binary Tree](/Tree/662.md) (Medium)
 - [814. Binary Tree Pruning](/Tree/814.md) (Medium) 
 - [1339. Maximum Product of Splitted Binary Tree](/Tree/1339.md) (Medium) 
