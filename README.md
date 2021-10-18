@@ -77,6 +77,7 @@
 - [167. Two Sum II - Input array is sorted](/Two_Pointers/167.md) (Easy)
 - [392. Is Subsequence](/Two_Pointers/392.md) (Easy)
 - [611. Valid Triangle Number](/Two_Pointers/611.md) (Medium)
+- [881. Boats to Save People](/Two_Pointers/881.md) (Medium)
 - [922. Sort Array By Parity II](/Two_Pointers/922.md) (Medium)
 - [1004. Max Consecutive Ones III](/Two_Pointers/1004.md) (Medium)
 
