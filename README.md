@@ -200,6 +200,7 @@
 - [437. Path Sum III](/Tree/437.md) (Medium)
 - [508. Most Frequent Subtree Sum](/Tree/508.md) (Medium)
 - [662. Maximum Width of Binary Tree](/Tree/662.md) (Medium)
+- [687. Longest Univalue Path](/Tree/687.md) (Medium)
 - [814. Binary Tree Pruning](/Tree/814.md) (Medium) 
 - [993. Cousins in Binary Tree](/Tree/993.md) (Easy) 
 - [1339. Maximum Product of Splitted Binary Tree](/Tree/1339.md) (Medium) 
