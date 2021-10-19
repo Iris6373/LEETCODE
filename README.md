@@ -195,6 +195,7 @@
 - [112. Path Sum](/Tree/112.md) (Easy)
 - [113. Path Sum II](/Tree/113.md) (Medium)
 - [129. Sum Root to Leaf Numbers](/Tree/129.md) (Medium)
+- [257. Binary Tree Paths](/Tree/257.md) (Easy)
 - [508. Most Frequent Subtree Sum](/Tree/508.md) (Medium)
 - [662. Maximum Width of Binary Tree](/Tree/662.md) (Medium)
 - [814. Binary Tree Pruning](/Tree/814.md) (Medium) 
