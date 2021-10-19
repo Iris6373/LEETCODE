@@ -199,6 +199,7 @@
 - [257. Binary Tree Paths](/Tree/257.md) (Easy)
 - [437. Path Sum III](/Tree/437.md) (Medium)
 - [508. Most Frequent Subtree Sum](/Tree/508.md) (Medium)
+- [543. Diameter of Binary Tree](/Tree/543.md) (Easy)
 - [662. Maximum Width of Binary Tree](/Tree/662.md) (Medium)
 - [687. Longest Univalue Path](/Tree/687.md) (Medium)
 - [814. Binary Tree Pruning](/Tree/814.md) (Medium) 
