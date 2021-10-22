@@ -207,6 +207,7 @@
 - [993. Cousins in Binary Tree](/Tree/993.md) (Easy) 
 - [1339. Maximum Product of Splitted Binary Tree](/Tree/1339.md) (Medium) 
 - [1376. Time Needed to Inform All Employees](/Tree/1376.md) (Medium) 
+- [1443. Minimum Time to Collect All Apples in a Tree](/Tree/1443.md) (Medium) 
 - [1448. Count Good Nodes in Binary Tree](/Tree/1448.md) (Medium) 
 
 
