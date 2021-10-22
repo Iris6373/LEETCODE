@@ -206,6 +206,7 @@
 - [814. Binary Tree Pruning](/Tree/814.md) (Medium) 
 - [993. Cousins in Binary Tree](/Tree/993.md) (Easy) 
 - [1339. Maximum Product of Splitted Binary Tree](/Tree/1339.md) (Medium) 
+- [1376. Time Needed to Inform All Employees](/Tree/1376.md) (Medium) 
 - [1448. Count Good Nodes in Binary Tree](/Tree/1448.md) (Medium) 
 
 
