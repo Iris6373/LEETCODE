@@ -192,6 +192,7 @@
 
 - [98. Validate Binary Search Tree](/Tree/98.md) (Medium)
 - [102. Binary Tree Level Order Traversal](/Tree/102.md) (Medium)
+- [110. Balanced Binary Tree](/Tree/110.md) (Easy)
 - [112. Path Sum](/Tree/112.md) (Easy)
 - [113. Path Sum II](/Tree/113.md) (Medium)
 - [124. Binary Tree Maximum Path Sum](/Tree/124.md) (Medium)
