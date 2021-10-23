@@ -88,6 +88,7 @@
 - [74. Search a 2D Matrix](/ARRAYS/74.md) (Medium)
 - [34. Find First and Last Position of Element in Sorted Array](/ARRAYS/34.md) (Medium)
 - [153. Find Minimum in Rotated Sorted Array](/ARRAYS/153.md) (Medium)
+- [154. Find Minimum in Rotated Sorted Array II](/ARRAYS/154.md) (Hard)
 - [240. Search a 2D Matrix II](/ARRAYS/240.md) (Medium)
 - [278. First Bad Version](/Binary_Search/278.md) (Easy)
 - [1011. Capacity To Ship Packages Within D Days](/ARRAYS/1011.md) (Medium)
