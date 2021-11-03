@@ -201,6 +201,7 @@
 - [222. Count Complete Tree Nodes](/Tree/222.md) (Medium)
 - [236. Lowest Common Ancestor of a Binary Tree](/Tree/236.md) (Medium)
 - [257. Binary Tree Paths](/Tree/257.md) (Easy)
+- [297. Serialize and Deserialize Binary Tree](/Tree/297.md) (Hard)
 - [437. Path Sum III](/Tree/437.md) (Medium)
 - [508. Most Frequent Subtree Sum](/Tree/508.md) (Medium)
 - [543. Diameter of Binary Tree](/Tree/543.md) (Easy)
