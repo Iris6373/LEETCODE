@@ -122,6 +122,7 @@
 ### [Strings](/Strings)
 
 - [38. Count and Say](/Strings/38.md) (Medium)
+- [43. Multiply Strings](/Strings/43.md) (Medium)
 - [71. Simplify Path](/Strings/71.md) (Medium)
 - [205. Isomorphic Strings](/Strings/205.md) (Easy)
 - [415. Add Strings](/Strings/415.md) (Easy)
