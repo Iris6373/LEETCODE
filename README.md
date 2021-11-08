@@ -201,6 +201,7 @@
 - [124. Binary Tree Maximum Path Sum](/Tree/124.md) (Medium)
 - [129. Sum Root to Leaf Numbers](/Tree/129.md) (Medium)
 - [222. Count Complete Tree Nodes](/Tree/222.md) (Medium)
+- [235. Lowest Common Ancestor of a Binary Search Tree](/Tree/235.md) (Easy)
 - [236. Lowest Common Ancestor of a Binary Tree](/Tree/236.md) (Medium)
 - [257. Binary Tree Paths](/Tree/257.md) (Easy)
 - [297. Serialize and Deserialize Binary Tree](/Tree/297.md) (Hard)
