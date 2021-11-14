@@ -135,6 +135,7 @@
 - [1629. Slowest Key](/Strings/1629.md) (Easy)
 - [1980. Find Unique Binary String](/Contests/Weekly_Contest_255/1980.md) (Medium)
 - [2042. Check if Numbers Are Ascending in a Sentence](/Contests/Weekly_Contest_263/2042.md) (Easy)
+- [2068. Check Whether Two Strings are Almost Equivalent](/Contests/Biweekly_Contest_65/2068.md) (Easy)
 
 
 ### [Stack](/Stack)
