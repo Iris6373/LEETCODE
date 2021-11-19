@@ -252,4 +252,5 @@
 
 ### [Topological Sort](/Topological_Sort)
 
-- [207. Course Schedule](/Topological_Sort) (Medium)
+- [207. Course Schedule](/Topological_Sort/207.md) (Medium)
+- [210. Course Schedule II](/Topological_Sort/210.md) (Medium)
