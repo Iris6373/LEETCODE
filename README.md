@@ -234,6 +234,7 @@
 ### [BFS](/BFS)
 
 - [279. Perfect Squares](/BFS/279.md) (Medium)
+- [490. The Maze](/BFS/490.md) (Medium)
 - [733. Flood Fill](/BFS/733.md) (Easy)
 - [994. Rotting Oranges](/BFS/994.md) (Medium)
 
