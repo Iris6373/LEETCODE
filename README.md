@@ -96,6 +96,7 @@
 - [154. Find Minimum in Rotated Sorted Array II](/ARRAYS/154.md) (Hard)
 - [240. Search a 2D Matrix II](/ARRAYS/240.md) (Medium)
 - [278. First Bad Version](/Binary_Search/278.md) (Easy)
+- [540. Single Element in a Sorted Array](/Binary_Search/540.md) (Medium)
 - [668. Kth Smallest Number in Multiplication Table](/Binary_Search/668.md) (Hard)
 - [1011. Capacity To Ship Packages Within D Days](/ARRAYS/1011.md) (Medium)
 
