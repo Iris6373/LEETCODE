@@ -37,6 +37,7 @@
 - [2037. Minimum Number of Moves to Seat Everyone](/Contests/Biweekly_Contest_63/2037.md) (Easy)
 - [2069. Walking Robot Simulation II](/Contests/Biweekly_Contest_65/2069.md) (Medium)
 - [2073. Time Needed to Buy Tickets](/Contests/Weekly_Contest_267/2073.md) (Easy)
+- [2078. Two Furthest Houses With Different Colors](/Contests/Weekly_Contest_268/2078.md) (Easy)
 
 
 ### [Hash Table](/Hash_Table)
