@@ -86,6 +86,7 @@
 - [611. Valid Triangle Number](/Two_Pointers/611.md) (Medium)
 - [881. Boats to Save People](/Two_Pointers/881.md) (Medium)
 - [922. Sort Array By Parity II](/Two_Pointers/922.md) (Medium)
+- [986. Interval List Intersections](/Two_Pointers/986.md) (Medium)
 - [1004. Max Consecutive Ones III](/Two_Pointers/1004.md) (Medium)
 
 
