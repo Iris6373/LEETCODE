@@ -93,6 +93,7 @@
 ### [Binary Search](/Binary_Search)
 
 - [33. Search in Rotated Sorted Array](/ARRAYS/33.md) (Medium)
+- [35. Search Insert Position](/Binary_Search/35.md) (Easy)
 - [74. Search a 2D Matrix](/ARRAYS/74.md) (Medium)
 - [34. Find First and Last Position of Element in Sorted Array](/ARRAYS/34.md) (Medium)
 - [153. Find Minimum in Rotated Sorted Array](/ARRAYS/153.md) (Medium)
