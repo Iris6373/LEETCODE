@@ -40,6 +40,8 @@
 - [2078. Two Furthest Houses With Different Colors](/Contests/Weekly_Contest_268/2078.md) (Easy)
 - [2087. Minimum Cost Homecoming of a Robot in a Grid](/Contests/Biweekly_Contest_66/2087.md) (Medium)
 - [2088. Count Fertile Pyramids in a Land](/Contests/Biweekly_Contest_66/2087.md) (Hard)
+- [2089. Find Target Indices After Sorting Array](/Contests/Weekly_Contest_269/2089.md) (Easy)
+
 
 ### [Hash Table](/Hash_Table)
 
