@@ -2,7 +2,7 @@
 
 class DSU {
     vector<int> parent, size;
-    
+public:
     DSU (int n) {
         for (int i=0;i<=n;i++) {
             parent.push_back(i);
@@ -10,7 +10,6 @@ class DSU {
         }
     }
     
-    public:
     // path compression
     int findPar(int node) {
         if (parent[node] == node) return node;
