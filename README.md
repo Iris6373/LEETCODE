@@ -42,6 +42,7 @@
 - [2088. Count Fertile Pyramids in a Land](/Contests/Biweekly_Contest_66/2087.md) (Hard)
 - [2089. Find Target Indices After Sorting Array](/Contests/Weekly_Contest_269/2089.md) (Easy)
 - [2090. K Radius Subarray Averages](/Contests/Weekly_Contest_269/2090.md) (Medium)
+- [2091. Removing Minimum and Maximum From Array](/Contests/Weekly_Contest_269/2091.md) (Medium)
 
 
 ### [Hash Table](/Hash_Table)
