@@ -267,6 +267,10 @@
 - [210. Course Schedule II](/Topological_Sort/210.md) (Medium)
 
 
+### [Dijkstra's Algorithm](Dijkstra's_Algorithm)
+- [1976. Number of Ways to Arrive at Destination](Dijkstra's_Algorithm/1976.md) (Medium)
+
+
 ### [Union_Find](/Union_Find)
 
 - [2092. Find All People With Secret](/Contests/Weekly_Contest_269/2092.md) (Hard)
