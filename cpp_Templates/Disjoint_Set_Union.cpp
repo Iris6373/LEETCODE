@@ -1,7 +1,6 @@
 // DSU or Union-Find using Union by size and path compression
 
 class DSU {
-    public:
     vector<int> parent, size;
     
     DSU (int n) {
@@ -11,6 +10,7 @@ class DSU {
         }
     }
     
+    public:
     // path compression
     int findPar(int node) {
         if (parent[node] == node) return node;
@@ -18,7 +18,7 @@ class DSU {
     }
     
     // Union by size
-    void unionS(int u, int v) {
+    void unify(int u, int v) {
         int pu = findPar(u);
         int pv = findPar(v);
         
@@ -43,4 +43,7 @@ class DSU {
 
 // DSU dsu(n);
 // dsu.findPar(i);
-// dsu.unionS(i,j);
+// dsu.unify(i,j);
+
+
+// only path compression takes O(logN) time, but with size compression it takes O(4*alpha) which is almost constant time.
