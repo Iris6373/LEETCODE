@@ -265,3 +265,8 @@
 
 - [207. Course Schedule](/Topological_Sort/207.md) (Medium)
 - [210. Course Schedule II](/Topological_Sort/210.md) (Medium)
+
+
+### [Union_Find](/Union_Find)
+
+- [2092. Find All People With Secret](/Contests/Weekly_Contest_269/2092.md) (Hard)
