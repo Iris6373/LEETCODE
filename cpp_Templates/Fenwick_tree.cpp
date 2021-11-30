@@ -41,5 +41,5 @@ public:
     }
 };
 
-// vector<int> fen(1e6+5, 0)
+// vector<int> fen(1e6+1e6+5, 0)
 // BIT bit(fen)
