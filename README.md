@@ -279,4 +279,5 @@
 
 ### [Union_Find](/Union_Find)
 
+- [721. Accounts Merge](/Union_Find/721.md)
 - [2092. Find All People With Secret](/Contests/Weekly_Contest_269/2092.md) (Hard)
