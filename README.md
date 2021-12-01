@@ -188,6 +188,7 @@
 - [90. Subsets II](/Recursion/90.md) (Medium)
 - [216. Combination Sum III](/Recursion/216.md) (Medium)
 - [401. Binary Watch](/Recursion/401.md) (Easy)
+- [980. Unique Paths III](/Recursion/980.md) (Easy)
 - [1254. Number of Closed Islands](/Recursion/1254.md) (Medium)
 - [1286. Iterator for Combination](/Recursion/1286.md) (Medium)
 
