@@ -156,6 +156,7 @@
 ### [Stack](/Stack)
 
 - [20. Valid Parentheses](/Stack/20.md) (Easy)
+- [84. Largest Rectangle in Histogram](/Stack/84.md) (Hard)
 - [150. Evaluate Reverse Polish Notation](/Stack/150.md) (Medium)
 - [155. Min Stack](/Stack/155.md) (Easy)
 - [394. Decode String](/Stack/394.md) (Medium)
