@@ -1,6 +1,7 @@
 // DSU or Union-Find using Union by size and path compression
 
 class DSU {
+private:
     vector<int> parent, size;
 public:
     DSU (int n) {
