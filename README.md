@@ -201,6 +201,7 @@
 - [63. Unique Paths II](/Dynamic_Programming/63.md) (Medium)
 - [70. Climbing Stairs](/Dynamic_Programming/70.md) (Easy)
 - [91. Decode Ways](/Dynamic_Programming/91.md) (Medium)
+- [120. Triangle](/Dynamic_Programming/120.md) (Medium)
 - [198. House Robber](/Dynamic_Programming/198.md) (Medium)
 - [213. House Robber II](/Dynamic_Programming/213.md) (Medium)
 - [221. Maximal Square](/Dynamic_Programming/221.md) (Medium)
