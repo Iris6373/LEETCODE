@@ -280,6 +280,7 @@
 
 ### [Union_Find](/Union_Find)
 
+- [547. Number of Provinces](/Union_Find/547.md) (Medium)
 - [684. Redundant Connection](/Union_Find/684.md) (Medium)
 - [721. Accounts Merge](/Union_Find/721.md) (Medium)
 - [952. Largest Component Size by Common Factor](/Union_Find/952.md) (Hard)
