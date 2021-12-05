@@ -43,6 +43,7 @@
 - [2089. Find Target Indices After Sorting Array](/Contests/Weekly_Contest_269/2089.md) (Easy)
 - [2090. K Radius Subarray Averages](/Contests/Weekly_Contest_269/2090.md) (Medium)
 - [2091. Removing Minimum and Maximum From Array](/Contests/Weekly_Contest_269/2091.md) (Medium)
+- [2094. Finding 3-Digit Even Numbers](/Contests/Weekly_Contest_269/2094.md) (Easy)
 
 
 ### [Hash Table](/Hash_Table)
