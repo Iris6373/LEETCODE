@@ -43,7 +43,7 @@
 - [2089. Find Target Indices After Sorting Array](/Contests/Weekly_Contest_269/2089.md) (Easy)
 - [2090. K Radius Subarray Averages](/Contests/Weekly_Contest_269/2090.md) (Medium)
 - [2091. Removing Minimum and Maximum From Array](/Contests/Weekly_Contest_269/2091.md) (Medium)
-- [2094. Finding 3-Digit Even Numbers](/Contests/Weekly_Contest_269/2094.md) (Easy)
+- [2094. Finding 3-Digit Even Numbers](/Contests/Weekly_Contest_270/2094.md) (Easy)
 
 
 ### [Hash Table](/Hash_Table)
@@ -247,6 +247,7 @@
 - [1376. Time Needed to Inform All Employees](/Tree/1376.md) (Medium) 
 - [1443. Minimum Time to Collect All Apples in a Tree](/Tree/1443.md) (Medium) 
 - [1448. Count Good Nodes in Binary Tree](/Tree/1448.md) (Medium) 
+- [2096. Step-By-Step Directions From a Binary Tree Node to Another](/Contests/Weekly_Contest_270/2096.md) (Medium)
 
 
 ### [BFS](/BFS)
