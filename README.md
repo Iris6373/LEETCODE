@@ -47,6 +47,11 @@
 - [2094. Finding 3-Digit Even Numbers](/Contests/Weekly_Contest_270/2094.md) (Easy)
 
 
+### [Linked_List](/Linked_List)
+
+- [1290. Convert Binary Number in a Linked List to Integer](/Linked_List/1290.md)
+
+
 ### [Hash Table](/Hash_Table)
 
 - [1. Two Sum](/Hash_Table/1.md) (Easy)
