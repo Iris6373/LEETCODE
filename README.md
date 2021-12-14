@@ -248,6 +248,7 @@
 - [687. Longest Univalue Path](/Tree/687.md) (Medium)
 - [814. Binary Tree Pruning](/Tree/814.md) (Medium) 
 - [863. All Nodes Distance K in Binary Tree](/Tree/863.md) (Medium) 
+- [938. Range Sum of BST](/Tree/938.md) (Easy) 
 - [993. Cousins in Binary Tree](/Tree/993.md) (Easy) 
 - [1110. Delete Nodes And Return Forest](/Tree/1110.md) (Medium) 
 - [1315. Sum of Nodes with Even-Valued Grandparent](/Tree/1315.md) (Medium) 
