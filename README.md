@@ -155,6 +155,7 @@
 - [929. Unique Email Addresses](/Strings/929.md) (Easy)
 - [1047. Remove All Adjacent Duplicates In String](/Strings/1047.md) (Easy)
 - [1209. Remove All Adjacent Duplicates in String II](/Strings/1209.md) (Medium)
+- [1446. Consecutive Characters](/Strings/1446.md) (Easy)
 - [1513. Number of Substrings With Only 1s](/Strings/1513.md) (Medium)
 - [1629. Slowest Key](/Strings/1629.md) (Easy)
 - [1759. Count Number of Homogenous Substrings](/Strings/1759.md) (Medium)
