@@ -155,6 +155,7 @@
 - [929. Unique Email Addresses](/Strings/929.md) (Easy)
 - [1047. Remove All Adjacent Duplicates In String](/Strings/1047.md) (Easy)
 - [1209. Remove All Adjacent Duplicates in String II](/Strings/1209.md) (Medium)
+- [1513. Number of Substrings With Only 1s](/Strings/1513.md) (Medium)
 - [1629. Slowest Key](/Strings/1629.md) (Easy)
 - [1980. Find Unique Binary String](/Contests/Weekly_Contest_255/1980.md) (Medium)
 - [2042. Check if Numbers Are Ascending in a Sentence](/Contests/Weekly_Contest_263/2042.md) (Easy)
