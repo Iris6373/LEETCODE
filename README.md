@@ -47,6 +47,8 @@
 - [2094. Finding 3-Digit Even Numbers](/Contests/Weekly_Contest_270/2094.md) (Easy)
 - [2099. Find Subsequence of Length K With the Largest Sum](/Contests/Biweekly_Contest_67/2099.md) (Easy)
 - [2100. Find Good Days to Rob the Bank](/Contests/Biweekly_Contest_67/2100.md) (Medium)
+- [2102. Sequentially Ordinal Rank Tracker](/Contests/Biweekly_Contest_67/2102.md) (Hard)
+
 
 ### [Linked_List](/Linked_List)
 
@@ -299,3 +301,4 @@
 - [721. Accounts Merge](/Union_Find/721.md) (Medium)
 - [952. Largest Component Size by Common Factor](/Union_Find/952.md) (Hard)
 - [2092. Find All People With Secret](/Contests/Weekly_Contest_269/2092.md) (Hard)
+
