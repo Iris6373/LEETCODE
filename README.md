@@ -167,7 +167,9 @@
 - [2042. Check if Numbers Are Ascending in a Sentence](/Contests/Weekly_Contest_263/2042.md) (Easy)
 - [2068. Check Whether Two Strings are Almost Equivalent](/Contests/Biweekly_Contest_65/2068.md) (Easy)
 - [2086. Minimum Number of Buckets Required to Collect Rainwater from Houses](/Contests/Biweekly_Contest_66/2086.md) (Medium)
-- [2108. Find First Palindromic String in the Array](/Contests/Weekly_Contest_263/2108.md) (Easy)
+- [2108. Find First Palindromic String in the Array](/Contests/Weekly_Contest_272/2108.md) (Easy)
+- [2109. Adding Spaces to a String](/Contests/Weekly_Contest_272/2109.md) (Easy)
+
 
 ### [Stack](/Stack)
 
