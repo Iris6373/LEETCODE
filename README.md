@@ -24,6 +24,7 @@
 - [838. Push Dominoes](/ARRAYS/838.md) (Medium)
 - [883. Projection Area of 3D Shapes](/ARRAYS/883.md) (Easy)
 - [1007. Minimum Domino Rotations For Equal Row](/ARRAYS/1007.md) (Medium)
+- [1200. Minimum Absolute Difference](/ARRAYS/1200.md) (Easy)
 - [1217. Minimum Cost to Move Chips to The Same Position](/ARRAYS/1217.md) (Easy)
 - [1222. Queens That Can Attack the King](/ARRAYS/1222.md) (Medium)
 - [1275. Find Winner on a Tic Tac Toe Game](/ARRAYS/1275.md) (Easy)
