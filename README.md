@@ -23,6 +23,7 @@
 - [763. Partition Labels](/ARRAYS/763.md) (Medium)
 - [838. Push Dominoes](/ARRAYS/838.md) (Medium)
 - [883. Projection Area of 3D Shapes](/ARRAYS/883.md) (Easy)
+- [976. Largest Perimeter Triangle](/ARRAYS/976.md) (Easy)
 - [1007. Minimum Domino Rotations For Equal Row](/ARRAYS/1007.md) (Medium)
 - [1200. Minimum Absolute Difference](/ARRAYS/1200.md) (Easy)
 - [1217. Minimum Cost to Move Chips to The Same Position](/ARRAYS/1217.md) (Easy)
