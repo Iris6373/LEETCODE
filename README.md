@@ -50,6 +50,7 @@
 - [2099. Find Subsequence of Length K With the Largest Sum](/Contests/Biweekly_Contest_67/2099.md) (Easy)
 - [2100. Find Good Days to Rob the Bank](/Contests/Biweekly_Contest_67/2100.md) (Medium)
 - [2102. Sequentially Ordinal Rank Tracker](/Contests/Biweekly_Contest_67/2102.md) (Hard)
+- [2114. Maximum Number of Words Found in Sentences](/Contests/Biweekly_Contest_68/2114.md) (Easy)
 
 
 ### [Linked_List](/Linked_List)
