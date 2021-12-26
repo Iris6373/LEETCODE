@@ -173,6 +173,7 @@
 - [2108. Find First Palindromic String in the Array](/Contests/Weekly_Contest_272/2108.md) (Easy)
 - [2109. Adding Spaces to a String](/Contests/Weekly_Contest_272/2109.md) (Easy)
 - [2119. A Number After a Double Reversal](/Contests/Weekly_Contest_273/2119.md) (Easy)
+- [2120. Execution of All Suffix Instructions Staying in a Grid](/Contests/Weekly_Contest_273/2120.md) (Medium)
 
 
 ### [Stack](/Stack)
