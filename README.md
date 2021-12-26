@@ -172,6 +172,7 @@
 - [2086. Minimum Number of Buckets Required to Collect Rainwater from Houses](/Contests/Biweekly_Contest_66/2086.md) (Medium)
 - [2108. Find First Palindromic String in the Array](/Contests/Weekly_Contest_272/2108.md) (Easy)
 - [2109. Adding Spaces to a String](/Contests/Weekly_Contest_272/2109.md) (Easy)
+- [2119. A Number After a Double Reversal](/Contests/Weekly_Contest_273/2119.md) (Easy)
 
 
 ### [Stack](/Stack)
