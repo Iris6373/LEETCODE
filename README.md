@@ -109,6 +109,7 @@
 - [922. Sort Array By Parity II](/Two_Pointers/922.md) (Medium)
 - [986. Interval List Intersections](/Two_Pointers/986.md) (Medium)
 - [1004. Max Consecutive Ones III](/Two_Pointers/1004.md) (Medium)
+- [1850. Minimum Adjacent Swaps to Reach the Kth Smallest Number](/Two_Pointers/1850.md) (Medium)
 
 
 ### [Binary Search](/Binary_Search)
