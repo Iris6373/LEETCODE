@@ -53,6 +53,7 @@
 - [2100. Find Good Days to Rob the Bank](/Contests/Biweekly_Contest_67/2100.md) (Medium)
 - [2102. Sequentially Ordinal Rank Tracker](/Contests/Biweekly_Contest_67/2102.md) (Hard)
 - [2114. Maximum Number of Words Found in Sentences](/Contests/Biweekly_Contest_68/2114.md) (Easy)
+- [2125. Number of Laser Beams in a Bank](/Contests/Weekly_Contest_274/2125.md) (Easy)
 
 
 ### [Linked_List](/Linked_List)
