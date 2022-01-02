@@ -178,6 +178,7 @@
 - [2109. Adding Spaces to a String](/Contests/Weekly_Contest_272/2109.md) (Easy)
 - [2119. A Number After a Double Reversal](/Contests/Weekly_Contest_273/2119.md) (Easy)
 - [2120. Execution of All Suffix Instructions Staying in a Grid](/Contests/Weekly_Contest_273/2120.md) (Medium)
+- [2124. Check if All A's Appears Before All B's](/Contests/Weekly_Contest_274/2124.md) (Easy)
 
 
 ### [Stack](/Stack)
