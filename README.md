@@ -26,6 +26,7 @@
 - [883. Projection Area of 3D Shapes](/ARRAYS/883.md) (Easy)
 - [918. Maximum Sum Circular Subarray](/ARRAYS/918.md) (Medium)
 - [976. Largest Perimeter Triangle](/ARRAYS/976.md) (Easy)
+- [997. Find the Town Judge](/ARRAYS/997.md) (Easy)
 - [1007. Minimum Domino Rotations For Equal Row](/ARRAYS/1007.md) (Medium)
 - [1200. Minimum Absolute Difference](/ARRAYS/1200.md) (Easy)
 - [1217. Minimum Cost to Move Chips to The Same Position](/ARRAYS/1217.md) (Easy)
