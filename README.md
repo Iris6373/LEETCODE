@@ -91,6 +91,7 @@
 - [724. Find Pivot Index](/Prefix_Sum/724.md) (Easy)
 - [1094. Car Pooling](/Prefix_Sum/1094.md) (Medium)
 - [1314. Matrix Block Sum](/Prefix_Sum/1314.md) (Medium)
+- [1769. Minimum Number of Operations to Move All Balls to Each Box](/Prefix_Sum/1769.md) (Medium)
 - [1413. Minimum Value to Get Positive Step by Step Sum](/Prefix_Sum/1413.md) (Easy)
 
 
