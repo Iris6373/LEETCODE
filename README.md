@@ -198,6 +198,7 @@
 - [150. Evaluate Reverse Polish Notation](/Stack/150.md) (Medium)
 - [155. Min Stack](/Stack/155.md) (Easy)
 - [394. Decode String](/Stack/394.md) (Medium)
+- [402. Remove K Digits](/Stack/402.md) (Medium)
 - [726. Number of Atoms](/Stack/726.md) (Hard)
 - [739. Daily Temperatures](/Stack/739.md) (Medium)
 - [1003. Check If Word Is Valid After Substitutions](/Stack/1003.md) (Medium)
