@@ -23,6 +23,7 @@
 - [658. Find K Closest Elements](/ARRAYS/658.md) (Medium)
 - [763. Partition Labels](/ARRAYS/763.md) (Medium)
 - [838. Push Dominoes](/ARRAYS/838.md) (Medium)
+- [845. Longest Mountain in Array](/ARRAYS/845.md) (Medium)
 - [883. Projection Area of 3D Shapes](/ARRAYS/883.md) (Easy)
 - [918. Maximum Sum Circular Subarray](/ARRAYS/918.md) (Medium)
 - [976. Largest Perimeter Triangle](/ARRAYS/976.md) (Easy)
