@@ -309,6 +309,7 @@
 - [695. Max Area of Island](/DFS/695.md) (Medium)
 - [827. Making A Large Island](/DFS/827.md) (Hard)
 - [797. All Paths From Source to Target](/DFS/797.md) (Medium)
+- [1026. Maximum Difference Between Node and Ancestor](/DFS/1026.md) (Medium)
 - [1034. Coloring A Border](/DFS/1034.md) (Medium)
 - [1905. Count Sub Islands](/DFS/1905.md) (Medium)
 - [2101. Detonate the Maximum Bombs](/Contests/Biweekly_Contest_67/2101.md) (Medium)
