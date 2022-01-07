@@ -237,6 +237,7 @@
 
 ### [Dynamic Programming](/Dynamic_Programming)
 
+- [55. Jump Game](/Dynamic_Programming/55.md) (Easy)
 - [62. Unique Paths](/Dynamic_Programming/62.md) (Medium)
 - [63. Unique Paths II](/Dynamic_Programming/63.md) (Medium)
 - [70. Climbing Stairs](/Dynamic_Programming/70.md) (Easy)
