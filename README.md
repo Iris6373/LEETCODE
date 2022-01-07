@@ -299,6 +299,7 @@
 - [490. The Maze](/BFS/490.md) (Medium)
 - [733. Flood Fill](/BFS/733.md) (Easy)
 - [994. Rotting Oranges](/BFS/994.md) (Medium)
+- [1306. Jump Game III](/BFS/1306.md) (Medium)
 
 
 ### [DFS](/DFS)
