@@ -240,6 +240,7 @@
 - [55. Jump Game](/Dynamic_Programming/55.md) (Easy)
 - [62. Unique Paths](/Dynamic_Programming/62.md) (Medium)
 - [63. Unique Paths II](/Dynamic_Programming/63.md) (Medium)
+- [64. Minimum Path Sum](/Dynamic_Programming/64.md) (Medium)
 - [70. Climbing Stairs](/Dynamic_Programming/70.md) (Easy)
 - [91. Decode Ways](/Dynamic_Programming/91.md) (Medium)
 - [120. Triangle](/Dynamic_Programming/120.md) (Medium)
