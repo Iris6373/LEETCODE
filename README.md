@@ -68,6 +68,7 @@
 ### [Hash Table](/Hash_Table)
 
 - [1. Two Sum](/Hash_Table/1.md) (Easy)
+- [36. Valid Sudoku](/Hash_Table/36.md) (Medium)
 - [49. Group Anagrams](/Hash_Table/49.md) (Medium)
 - [242. Valid Anagram](/Hash_Table/242.md) (Easy)
 - [387. First Unique Character in a String](/Hash_Table/387.md) (Easy)
