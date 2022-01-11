@@ -192,6 +192,7 @@
 - [2119. A Number After a Double Reversal](/Contests/Weekly_Contest_273/2119.md) (Easy)
 - [2120. Execution of All Suffix Instructions Staying in a Grid](/Contests/Weekly_Contest_273/2120.md) (Medium)
 - [2124. Check if All A's Appears Before All B's](/Contests/Weekly_Contest_274/2124.md) (Easy)
+- [2129. Capitalize the Title](/Contests/Biweekly_Contest_69/2129.md) (Medium)
 
 
 ### [Stack](/Stack)
