@@ -85,7 +85,8 @@
 - [2043. Simple Bank System](/Contests/Weekly_Contest_263/2043.md) (Medium)
 - [2070. Most Beautiful Item for Each Query](/Contests/Biweekly_Contest_65/2070.md) (Medium)
 - [2080. Range Frequency Queries](/Contests/Weekly_Contest_268/2080.md) (Medium)
-- [2085. Count Common Words With One Occurrence](/Contests/Biweekly_Contest_66/2085.md)  (Easy)
+- [2085. Count Common Words With One Occurrence](/Contests/Biweekly_Contest_66/2085.md) (Easy)
+- [2131. Longest Palindrome by Concatenating Two Letter Words](/Contests/Biweekly_Contest_66/2131.md) (Easy)
 
 
 ### [Prefix Sum](/Prefix_Sum)
