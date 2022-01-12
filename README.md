@@ -286,6 +286,7 @@
 - [617. Merge Two Binary Trees](/Tree/617.md) (Easy)
 - [662. Maximum Width of Binary Tree](/Tree/662.md) (Medium)
 - [687. Longest Univalue Path](/Tree/687.md) (Medium)
+- [701. Insert into a Binary Search Tree](/Tree/701.md) (Medium)
 - [814. Binary Tree Pruning](/Tree/814.md) (Medium) 
 - [863. All Nodes Distance K in Binary Tree](/Tree/863.md) (Medium) 
 - [938. Range Sum of BST](/Tree/938.md) (Easy) 
