@@ -214,6 +214,7 @@
 ### [Greedy](/Greedy)
 
 - [55. Jump Game](/Greedy/55.md) (Easy)
+- [435. Non-overlapping Intervals](/Greedy/435.md) (Medium)
 - [452. Minimum Number of Arrows to Burst Balloons](/Greedy/452.md) (Medium)
 - [1053. Previous Permutation With One Swap](/Greedy/1053.md) (Medium)
 - [1996. The Number of Weak Characters in the Game](/Greedy/1996.md) (Medium)
