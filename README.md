@@ -172,6 +172,7 @@
 
 ### [Strings](/Strings)
 
+- [8. String to Integer (atoi)](/Strings/8.md) (Medium)
 - [38. Count and Say](/Strings/38.md) (Medium)
 - [43. Multiply Strings](/Strings/43.md) (Medium)
 - [71. Simplify Path](/Strings/71.md) (Medium)
