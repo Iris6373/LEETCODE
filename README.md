@@ -59,6 +59,7 @@
 - [2114. Maximum Number of Words Found in Sentences](/Contests/Biweekly_Contest_68/2114.md) (Easy)
 - [2125. Number of Laser Beams in a Bank](/Contests/Weekly_Contest_274/2125.md) (Medium)
 - [2126. Destroying Asteroids](/Contests/Weekly_Contest_274/2126.md) (Medium)
+- [2141. Maximum Running Time of N Computers](/Contests/Weekly_Contest_276/2125.md) (Hard)
 
 
 ### [Linked_List](/Linked_List)
