@@ -317,6 +317,7 @@
 - [733. Flood Fill](/BFS/733.md) (Easy)
 - [994. Rotting Oranges](/BFS/994.md) (Medium)
 - [1306. Jump Game III](/BFS/1306.md) (Medium)
+- [1345. Jump Game IV]/BFS/1345.md) (Hard)
 
 
 ### [DFS](/DFS)
