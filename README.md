@@ -140,6 +140,7 @@
 - [278. First Bad Version](/Binary_Search/278.md) (Easy)
 - [540. Single Element in a Sorted Array](/Binary_Search/540.md) (Medium)
 - [668. Kth Smallest Number in Multiplication Table](/Binary_Search/668.md) (Hard)
+- [875. Koko Eating Bananas](/Binary_Search/875.md) (Medium)
 - [1011. Capacity To Ship Packages Within D Days](/ARRAYS/1011.md) (Medium)
 
 
