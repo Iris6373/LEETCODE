@@ -94,6 +94,7 @@
 - [2080. Range Frequency Queries](/Contests/Weekly_Contest_268/2080.md) (Medium)
 - [2085. Count Common Words With One Occurrence](/Contests/Biweekly_Contest_66/2085.md) (Easy)
 - [2131. Longest Palindrome by Concatenating Two Letter Words](/Contests/Biweekly_Contest_66/2131.md) (Easy)
+- [2150. Find All Lonely Numbers in the Array](/Contests/Weekly_Contest_277/2150.md) (Medium)
 
 
 ### [Prefix Sum](/Prefix_Sum)
