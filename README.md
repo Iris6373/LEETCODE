@@ -35,6 +35,7 @@
 - [1217. Minimum Cost to Move Chips to The Same Position](/ARRAYS/1217.md) (Easy)
 - [1222. Queens That Can Attack the King](/ARRAYS/1222.md) (Medium)
 - [1275. Find Winner on a Tic Tac Toe Game](/ARRAYS/1275.md) (Easy)
+- [1291. Sequential Digits](/ARRAYS/1291.md) (Medium)
 - [1329. Sort the Matrix Diagonally](/ARRAYS/1329.md) (Medium)
 - [1886. Determine Whether Matrix Can Be Obtained By Rotation](/ARRAYS/1886.md) (Easy)
 - [1913. Maximum Product Difference Between Two Pairs](/Contests/Weekly_Contest_247/1913.md) (Easy)
