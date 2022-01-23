@@ -62,6 +62,7 @@
 - [2125. Number of Laser Beams in a Bank](/Contests/Weekly_Contest_274/2125.md) (Medium)
 - [2126. Destroying Asteroids](/Contests/Weekly_Contest_274/2126.md) (Medium)
 - [2141. Maximum Running Time of N Computers](/Contests/Weekly_Contest_276/2125.md) (Hard)
+- [2148. Count Elements With Strictly Smaller and Greater Elements](/Contests/Weekly_Contest_277/2148.md) (Easy)
 
 
 ### [Linked_List](/Linked_List)
