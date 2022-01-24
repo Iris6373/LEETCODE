@@ -83,6 +83,7 @@
 - [387. First Unique Character in a String](/Hash_Table/387.md) (Easy)
 - [438. Find All Anagrams in a String](/Hash_Table/438.md) (Medium)
 - [451. Sort Characters By Frequency](/Hash_Table/451.md) (Medium)
+- [523. Continuous Subarray Sum](/Hash_Table/523.md) (Medium)
 - [567. Permutation in String](/Hash_Table/567.md) (Medium)
 - [1282. Group the People Given the Group Size They Belong To](/Hash_Table/1282.md) (Medium)
 - [1338. Reduce Array Size to The Half](/Hash_Table/1338.md) (Medium)
