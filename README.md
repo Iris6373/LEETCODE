@@ -5,7 +5,7 @@
 
 - [41. First Missing Positive](/ARRAYS/41.md) (Hard)
 - [48. Rotate Image](/ARRAYS/48.md) (Medium)
-- [56. Merge Intervals](/ARRAYS/56.md) (Medium)
+- [56. Merge Intervals](/ARRAYS/56.md) (Medium) 
 - [57. Insert Interval](/ARRAYS/57.md) (Medium) 
 - [80. Remove Duplicates from Sorted Array II](/ARRAYS/80.md) (Medium)
 - [121. Best Time to Buy and Sell Stock](/ARRAYS/121.md) (Easy)
