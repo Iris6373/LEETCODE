@@ -64,6 +64,7 @@
 - [2141. Maximum Running Time of N Computers](/Contests/Weekly_Contest_276/2125.md) (Hard)
 - [2148. Count Elements With Strictly Smaller and Greater Elements](/Contests/Weekly_Contest_277/2148.md) (Easy)
 - [2149. Rearrange Array Elements by Sign](/Contests/Weekly_Contest_277/2149.md) (Medium)
+- [2154. Keep Multiplying Found Values by Two](/Contests/Weekly_Contest_278/2154.md) (Easy)
 
 
 ### [Linked_List](/Linked_List)
