@@ -38,6 +38,7 @@
 - [1275. Find Winner on a Tic Tac Toe Game](/ARRAYS/1275.md) (Easy)
 - [1291. Sequential Digits](/ARRAYS/1291.md) (Medium)
 - [1329. Sort the Matrix Diagonally](/ARRAYS/1329.md) (Medium)
+- [1672. Richest Customer Wealth](/ARRAYS/1672.md) (Easy)
 - [1886. Determine Whether Matrix Can Be Obtained By Rotation](/ARRAYS/1886.md) (Easy)
 - [1913. Maximum Product Difference Between Two Pairs](/Contests/Weekly_Contest_247/1913.md) (Easy)
 - [1914. Cyclically Rotating a Grid](/Contests/Weekly_Contest_247/1914.md) (Medium)
