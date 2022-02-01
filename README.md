@@ -272,6 +272,7 @@
 - [198. House Robber](/Dynamic_Programming/198.md) (Medium)
 - [213. House Robber II](/Dynamic_Programming/213.md) (Medium)
 - [221. Maximal Square](/Dynamic_Programming/221.md) (Medium)
+- [300. Longest Increasing Subsequence](/Dynamic_Programming/300.md) (Medium)
 - [322. Coin Change](/Dynamic_Programming/322.md) (Medium)
 - [338. Counting Bits](/Dynamic_Programming/338.md) (Easy)
 - [377. Combination Sum IV](/Dynamic_Programming/377.md) (Medium)
