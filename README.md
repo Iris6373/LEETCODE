@@ -92,6 +92,7 @@
 - [1338. Reduce Array Size to The Half](/Hash_Table/1338.md) (Medium)
 - [1636. Sort Array by Increasing Frequency](/Hash_Table/1636.md)  (Easy)
 - [1726. Tuple with Same Product](/Hash_Table/1726.md) (Medium)
+- [1748. Sum of Unique Elements](/Hash_Table/1748.md)  (Easy)
 - [2006. Count Number of Pairs With Absolute Difference K](/Contests/Biweekly_Contest_61/2007.md) (Medium)
 - [2043. Simple Bank System](/Contests/Weekly_Contest_263/2043.md) (Medium)
 - [2070. Most Beautiful Item for Each Query](/Contests/Biweekly_Contest_65/2070.md) (Medium)
