@@ -130,6 +130,7 @@
 ### [Two Pointers](/Two_Pointers)
 
 - [15. 3Sum](/Two_Pointers/15.md) (Medium)
+- [16. 3Sum Closest](/Two_Pointers/16.md) (Medium)
 - [31. Next Permutation](/Two_Pointers/31.md) (Medium)
 - [42. Trapping Rain Water](/Two_Pointers/42.md) (Hard)
 - [75. Sort Colors](/Two_Pointers/75.md) (Medium)
