@@ -135,6 +135,7 @@
 - [42. Trapping Rain Water](/Two_Pointers/42.md) (Hard)
 - [75. Sort Colors](/Two_Pointers/75.md) (Medium)
 - [167. Two Sum II - Input array is sorted](/Two_Pointers/167.md) (Easy)
+- [259. 3Sum Smaller](/Two_Pointers/259.md) (Medium)
 - [392. Is Subsequence](/Two_Pointers/392.md) (Easy)
 - [611. Valid Triangle Number](/Two_Pointers/611.md) (Medium)
 - [881. Boats to Save People](/Two_Pointers/881.md) (Medium)
