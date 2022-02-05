@@ -224,6 +224,7 @@
 - [2124. Check if All A's Appears Before All B's](/Contests/Weekly_Contest_274/2124.md) (Easy)
 - [2129. Capitalize the Title](/Contests/Biweekly_Contest_69/2129.md) (Medium)
 - [2156. Find Substring With Given Hash Value](/Contests/Weekly_Contest_278/2156.md) (Medium)
+- [2162. Minimum Cost to Set Cooking Time](/Contests/Biweekly_Contest_71/2162.md) (Medium)
 
 
 ### [Stack](/Stack)
