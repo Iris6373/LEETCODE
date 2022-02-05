@@ -68,6 +68,7 @@
 - [2148. Count Elements With Strictly Smaller and Greater Elements](/Contests/Weekly_Contest_277/2148.md) (Easy)
 - [2149. Rearrange Array Elements by Sign](/Contests/Weekly_Contest_277/2149.md) (Medium)
 - [2154. Keep Multiplying Found Values by Two](/Contests/Weekly_Contest_278/2154.md) (Easy)
+- [2161. Partition Array According to Given Pivot](/Contests/Biweekly_Contest_71/2161.md) (Medium)
 
 
 ### [Linked_List](/Linked_List)
