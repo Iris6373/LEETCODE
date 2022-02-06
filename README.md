@@ -227,6 +227,7 @@
 - [2129. Capitalize the Title](/Contests/Biweekly_Contest_69/2129.md) (Medium)
 - [2156. Find Substring With Given Hash Value](/Contests/Weekly_Contest_278/2156.md) (Medium)
 - [2162. Minimum Cost to Set Cooking Time](/Contests/Biweekly_Contest_71/2162.md) (Medium)
+- [2166. Design Bitset](/Contests/Weekly_Contest_279/2166.md) (Medium)
 
 
 ### [Stack](/Stack)
