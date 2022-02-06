@@ -69,6 +69,8 @@
 - [2149. Rearrange Array Elements by Sign](/Contests/Weekly_Contest_277/2149.md) (Medium)
 - [2154. Keep Multiplying Found Values by Two](/Contests/Weekly_Contest_278/2154.md) (Easy)
 - [2161. Partition Array According to Given Pivot](/Contests/Biweekly_Contest_71/2161.md) (Medium)
+- [2164. Sort Even and Odd Indices Independently](/Contests/Weekly_Contest_279/2164.md) (Easy)
+- [2165. Smallest Value of the Rearranged Number](/Contests/Weekly_Contest_279/2165.md) (Medium)
 
 
 ### [Linked_List](/Linked_List)
