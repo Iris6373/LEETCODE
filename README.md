@@ -93,6 +93,7 @@
 - [454. 4Sum II](/Hash_Table/454.md) (Medium)
 - [523. Continuous Subarray Sum](/Hash_Table/523.md) (Medium)
 - [525. Contiguous Array](/Hash_Table/525.md) (Medium)
+- [532. K-diff Pairs in an Array](/Hash_Table/532.md) (Medium)
 - [560. Subarray Sum Equals K](/Hash_Table/560.md) (Medium)
 - [567. Permutation in String](/Hash_Table/567.md) (Medium)
 - [1282. Group the People Given the Group Size They Belong To](/Hash_Table/1282.md) (Medium)
