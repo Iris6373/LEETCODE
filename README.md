@@ -180,6 +180,7 @@
 - [1009. Complement of Base 10 Integer](Bit_Manipulation/1009.md) (Easy)
 - [1255. Maximum Score Words Formed by Letter](Bit_Manipulation/1255.md) (Hard)
 - [1318. Minimum Flips to Make a OR b Equal to c](Bit_Manipulation/1255.md) (Medium)
+- [1680. Concatenation of Consecutive Binary Numbers](Bit_Manipulation/1680.md) (Medium)
 - [1404. Number of Steps to Reduce a Number in Binary Representation to One](Bit_Manipulation/1404.md) (Medium)
 - [1829. Maximum XOR for Each Query](Bit_Manipulation/1829.md) (Medium)
 - [2044. Count Number of Maximum Bitwise-OR Subsets](/Contests/Weekly_Contest_263/2042.md) (Medium)
