@@ -71,6 +71,7 @@
 - [2161. Partition Array According to Given Pivot](/Contests/Biweekly_Contest_71/2161.md) (Medium)
 - [2164. Sort Even and Odd Indices Independently](/Contests/Weekly_Contest_279/2164.md) (Easy)
 - [2165. Smallest Value of the Rearranged Number](/Contests/Weekly_Contest_279/2165.md) (Medium)
+- [2170. Minimum Operations to Make the Array Alternating](/Contests/Weekly_Contest_280/2170.md) (Medium)
 
 
 ### [Linked_List](/Linked_List)
