@@ -196,6 +196,7 @@
 - [1922. Count Good Numbers](/Contests/Weekly_Contest_248/1922.md) (Medium)
 - [1979. Find Greatest Common Divisor of Array](/Contests/Weekly_Contest_255/1979.md) (Easy)
 - [2139. Minimum Moves to Reach Target Score](/Contests/Weekly_Contest_276/2139.md) (Medium)
+- [2169. Count Operations to Obtain Zero](/Contests/Weekly_Contest_280/2169.md) (Easy)
 
 
 ### [Strings](/Strings)
