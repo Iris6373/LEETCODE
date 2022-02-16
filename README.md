@@ -1,7 +1,7 @@
 # Leetcode solutions in C++
      
    
-## [Arrays](/ARRAYS)    
+## [Arrays](/ARRAYS)     
 
 - [41. First Missing Positive](/ARRAYS/41.md) (Hard)
 - [48. Rotate Image](/ARRAYS/48.md) (Medium) 
