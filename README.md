@@ -201,6 +201,7 @@
 - [2139. Minimum Moves to Reach Target Score](/Contests/Weekly_Contest_276/2139.md) (Medium)
 - [2169. Count Operations to Obtain Zero](/Contests/Weekly_Contest_280/2169.md) (Easy)
 - [2177. Find Three Consecutive Integers That Sum to a Given Number](/Contests/Biweekly_Contest_72/2177.md) (Medium)
+- [2178. Maximum Split of Positive Even Integers](/Contests/Biweekly_Contest_72/2178.md) (Medium)
 
 
 ### [Strings](/Strings)
