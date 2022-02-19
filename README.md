@@ -73,6 +73,7 @@
 - [2165. Smallest Value of the Rearranged Number](/Contests/Weekly_Contest_279/2165.md) (Medium)
 - [2170. Minimum Operations to Make the Array Alternating](/Contests/Weekly_Contest_280/2170.md) (Medium)
 - [2171. Removing Minimum Number of Magic Beans](/Contests/Weekly_Contest_280/2171.md) (Medium)
+- [2176. Count Equal and Divisible Pairs in an Array](/Contests/Biweekly_Contest_72/2176.md) (Easy)
 
 
 ### [Linked_List](/Linked_List)
@@ -199,6 +200,7 @@
 - [1979. Find Greatest Common Divisor of Array](/Contests/Weekly_Contest_255/1979.md) (Easy)
 - [2139. Minimum Moves to Reach Target Score](/Contests/Weekly_Contest_276/2139.md) (Medium)
 - [2169. Count Operations to Obtain Zero](/Contests/Weekly_Contest_280/2169.md) (Easy)
+- [2177. Find Three Consecutive Integers That Sum to a Given Number](/Contests/Biweekly_Contest_72/2177.md) (Medium)
 
 
 ### [Strings](/Strings)
