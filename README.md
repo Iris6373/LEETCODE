@@ -241,6 +241,7 @@
 - [2156. Find Substring With Given Hash Value](/Contests/Weekly_Contest_278/2156.md) (Medium)
 - [2162. Minimum Cost to Set Cooking Time](/Contests/Biweekly_Contest_71/2162.md) (Medium)
 - [2166. Design Bitset](/Contests/Weekly_Contest_279/2166.md) (Medium)
+- [2182. Construct String With Repeat Limit](/Contests/Weekly_Contest_281/2182.md) (Medium)
 
 
 ### [Stack](/Stack)
