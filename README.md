@@ -82,6 +82,7 @@
 - [876. Middle of the Linked List](/Linked_List/876.md) (Easy)
 - [1290. Convert Binary Number in a Linked List to Integer](/Linked_List/1290.md) (Easy)
 - [2130. Maximum Twin Sum of a Linked List](/Contests/Biweekly_Contest_69/2130.md) (Easy)
+- [2181. Merge Nodes in Between Zeros](/Contests/Weekly_Contest_281/2181.md) (Medium)
 
 
 ### [Hash Table](/Hash_Table)
