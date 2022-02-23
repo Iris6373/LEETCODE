@@ -197,6 +197,7 @@
 - [60. Permutation Sequence](/Math/60.md) (Hard)
 - [171. Excel Sheet Column Number](/Math/171.md) (Easy)
 - [441. Arranging Coins](/Math/441.md) (Easy)
+- [738. Monotone Increasing Digits](/Math/738.md) (Medium)
 - [902. Numbers At Most N Given Digit Set](/Math/902.md) (Hard)
 - [1276. Number of Burgers with No Waste of Ingredients](/Math/1276.md) (Easy)
 - [1922. Count Good Numbers](/Contests/Weekly_Contest_248/1922.md) (Medium)
