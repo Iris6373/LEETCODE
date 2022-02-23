@@ -317,6 +317,7 @@
 - [1137. N-th Tribonacci Number](/Dynamic_Programming/1137.md) (Easy)
 - [1143. Longest Common Subsequence](/Dynamic_Programming/1143.md) (Medium)
 - [1220. Count Vowels Permutation](/Dynamic_Programming/1220.md) (Hard)
+- [1235. Maximum Profit in Job Scheduling](/Dynamic_Programming/1235.md) (Hard)
 - [1277. Count Square Submatrices with All Ones](/Dynamic_Programming/1277.md) (Medium)
 - [1641. Count Sorted Vowel Strings](/Dynamic_Programming/1641.md) (Medium)
 - [1770. Maximum Score from Performing Multiplication Operations](/Dynamic_Programming/1770.md) (Medium)
