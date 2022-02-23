@@ -36,6 +36,7 @@
 - [1217. Minimum Cost to Move Chips to The Same Position](/ARRAYS/1217.md) (Easy)
 - [1222. Queens That Can Attack the King](/ARRAYS/1222.md) (Medium)
 - [1275. Find Winner on a Tic Tac Toe Game](/ARRAYS/1275.md) (Easy)
+- [1288. Remove Covered Intervals](/ARRAYS/1288.md) (Medium)
 - [1291. Sequential Digits](/ARRAYS/1291.md) (Medium)
 - [1329. Sort the Matrix Diagonally](/ARRAYS/1329.md) (Medium)
 - [1672. Richest Customer Wealth](/ARRAYS/1672.md) (Easy)
