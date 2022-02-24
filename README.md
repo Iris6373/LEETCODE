@@ -326,6 +326,7 @@
 - [1277. Count Square Submatrices with All Ones](/Dynamic_Programming/1277.md) (Medium)
 - [1641. Count Sorted Vowel Strings](/Dynamic_Programming/1641.md) (Medium)
 - [1770. Maximum Score from Performing Multiplication Operations](/Dynamic_Programming/1770.md) (Medium)
+- [2008. Maximum Earnings From Taxi](/Dynamic_Programming/2008.md) (Medium)
 - [2111. Minimum Operations to Make the Array K-Increasing](/Dynamic_Programming/2111.md) (Hard)
 - [2140. Solving Questions With Brainpower](/Dynamic_Programming/2140.md) (Medium)
 - [2167. Minimum Time to Remove All Cars Containing Illegal Goods](/Dynamic_Programming/2167.md) (Hard)
