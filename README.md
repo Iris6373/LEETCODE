@@ -172,6 +172,11 @@
 - [1011. Capacity To Ship Packages Within D Days](/ARRAYS/1011.md) (Medium)
 
 
+### [Priority_Queue](/Priority_Queue)
+
+- [2054. Two Best Non-Overlapping Events](/Priority_Queue/2054.md) (Medium)
+
+
 ### [Bit Manipulation](/Bit_Manipulation)
 
 - [89. Gray Code](Bit_Manipulation/89.md) (Medium)
