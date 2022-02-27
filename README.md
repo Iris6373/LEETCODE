@@ -250,6 +250,7 @@
 - [2162. Minimum Cost to Set Cooking Time](/Contests/Biweekly_Contest_71/2162.md) (Medium)
 - [2166. Design Bitset](/Contests/Weekly_Contest_279/2166.md) (Medium)
 - [2182. Construct String With Repeat Limit](/Contests/Weekly_Contest_281/2182.md) (Medium)
+- [2185. Counting Words With a Given Prefix](/Contests/Weekly_Contest_282/2185.md) (Easy)
 
 
 ### [Stack](/Stack)
