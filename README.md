@@ -113,6 +113,7 @@
 - [2085. Count Common Words With One Occurrence](/Contests/Biweekly_Contest_66/2085.md) (Easy)
 - [2131. Longest Palindrome by Concatenating Two Letter Words](/Contests/Biweekly_Contest_66/2131.md) (Easy)
 - [2150. Find All Lonely Numbers in the Array](/Contests/Weekly_Contest_277/2150.md) (Medium)
+- [2186. Minimum Number of Steps to Make Two Strings Anagram II](/Contests/Weekly_Contest_282/2186.md) (Medium)
 
 
 ### [Prefix Sum](/Prefix_Sum)
