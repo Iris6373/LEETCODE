@@ -146,6 +146,7 @@
 - [31. Next Permutation](/Two_Pointers/31.md) (Medium)
 - [42. Trapping Rain Water](/Two_Pointers/42.md) (Hard)
 - [75. Sort Colors](/Two_Pointers/75.md) (Medium)
+- [165. Compare Version Numbers](/Two_Pointers/165.md) (Medium)
 - [167. Two Sum II - Input array is sorted](/Two_Pointers/167.md) (Easy)
 - [259. 3Sum Smaller](/Two_Pointers/259.md) (Medium)
 - [392. Is Subsequence](/Two_Pointers/392.md) (Easy)
