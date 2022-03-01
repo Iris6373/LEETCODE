@@ -126,6 +126,7 @@
 - [1314. Matrix Block Sum](/Prefix_Sum/1314.md) (Medium)
 - [1769. Minimum Number of Operations to Move All Balls to Each Box](/Prefix_Sum/1769.md) (Medium)
 - [1413. Minimum Value to Get Positive Step by Step Sum](/Prefix_Sum/1413.md) (Easy)
+- [2055. Plates Between Candles](/Prefix_Sum/2055.md) (Medium)
 - [2155. All Divisions With the Highest Score of a Binary Array](/Contests/Weekly_Contest_278/2155.md) (Medium)
 
 
