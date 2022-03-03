@@ -174,6 +174,7 @@
 - [668. Kth Smallest Number in Multiplication Table](/Binary_Search/668.md) (Hard)
 - [875. Koko Eating Bananas](/Binary_Search/875.md) (Medium)
 - [1011. Capacity To Ship Packages Within D Days](/ARRAYS/1011.md) (Medium)
+- [1648. Sell Diminishing-Valued Colored Balls](/Binary_Search/1648.md) (Medium)
 - [2187. Minimum Time to Complete Trips](/Contests/Weekly_Contest_282/2187.md) (Medium)
 
 
