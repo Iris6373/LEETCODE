@@ -326,6 +326,7 @@
 - [518. Coin Change 2](/Dynamic_Programming/518.md) (Medium)
 - [673. Number of Longest Increasing Subsequence](/Dynamic_Programming/673.md) (Medium)
 - [674. Longest Continuous Increasing Subsequence](/Dynamic_Programming/674.md) (Easy)
+- [740. Delete and Earn](/Dynamic_Programming/740.md) (Medium)
 - [746. Min Cost Climbing Stairs](/Dynamic_Programming/746.md) (Easy)
 - [799. Champagne Tower](/Dynamic_Programming/799.md) (Medium)
 - [1137. N-th Tribonacci Number](/Dynamic_Programming/1137.md) (Easy)
