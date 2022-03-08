@@ -219,6 +219,7 @@
 - [2177. Find Three Consecutive Integers That Sum to a Given Number](/Contests/Biweekly_Contest_72/2177.md) (Medium)
 - [2178. Maximum Split of Positive Even Integers](/Contests/Biweekly_Contest_72/2178.md) (Medium)
 - [2180. Count Integers With Even Digit Sum](/Contests/Weekly_Contest_281/2180.md) (Easy)
+- [2195. Append K Integers With Minimal Sum](/Contests/Weekly_Contest_283/2195.md) (Medium)
 
 
 ### [Strings](/Strings)
