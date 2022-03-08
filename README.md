@@ -258,6 +258,7 @@
 - [2166. Design Bitset](/Contests/Weekly_Contest_279/2166.md) (Medium)
 - [2182. Construct String With Repeat Limit](/Contests/Weekly_Contest_281/2182.md) (Medium)
 - [2185. Counting Words With a Given Prefix](/Contests/Weekly_Contest_282/2185.md) (Easy)
+- [2194. Cells in a Range on an Excel Sheet](/Contests/Weekly_Contest_283/2194.md) (Easy)
 
 
 ### [Stack](/Stack)
