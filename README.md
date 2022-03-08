@@ -274,6 +274,7 @@
 - [726. Number of Atoms](/Stack/726.md) (Hard)
 - [739. Daily Temperatures](/Stack/739.md) (Medium)
 - [1003. Check If Word Is Valid After Substitutions](/Stack/1003.md) (Medium)
+- [2197. Replace Non-Coprime Numbers in Array](/Contests/Weekly_Contest_283/2197.md) (Hard)
 
 
 ### [Greedy](/Greedy)
