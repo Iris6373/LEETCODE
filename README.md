@@ -82,6 +82,7 @@
 ### [Linked_List](/Linked_List)
 
 - [67. Add Binary](/Linked_List/67.md) (Easy)
+- [138. Copy List with Random Pointer](/Linked_List/138.md) (Easy)
 - [876. Middle of the Linked List](/Linked_List/876.md) (Easy)
 - [1290. Convert Binary Number in a Linked List to Integer](/Linked_List/1290.md) (Easy)
 - [2130. Maximum Twin Sum of a Linked List](/Contests/Biweekly_Contest_69/2130.md) (Easy)
