@@ -118,6 +118,7 @@
 - [2150. Find All Lonely Numbers in the Array](/Contests/Weekly_Contest_277/2150.md) (Medium)
 - [2186. Minimum Number of Steps to Make Two Strings Anagram II](/Contests/Weekly_Contest_282/2186.md) (Medium)
 - [2190. Most Frequent Number Following Key In an Array](/Contests/Biweekly_Contest_73/2190.md) (Easy)
+- [2200. Find All K-Distant Indices in an Array](/Contests/Weekly_Contest_284/2200.md) (Easy)
 
 
 ### [Prefix Sum](/Prefix_Sum)
