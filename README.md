@@ -77,6 +77,7 @@
 - [2171. Removing Minimum Number of Magic Beans](/Contests/Weekly_Contest_280/2171.md) (Medium)
 - [2176. Count Equal and Divisible Pairs in an Array](/Contests/Biweekly_Contest_72/2176.md) (Easy)
 - [2191. Sort the Jumbled Numbers](/Contests/Biweekly_Contest_73/2191.md) (Medium)
+- [2202. Maximize the Topmost Element After K Moves](/Contests/Weekly_Contest_284/2202.md) (Medium)
 
 
 ### [Linked_List](/Linked_List)
