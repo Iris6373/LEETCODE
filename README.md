@@ -107,6 +107,7 @@
 - [567. Permutation in String](/Hash_Table/567.md) (Medium)
 - [846. Hand of Straights](/Hash_Table/846.md) (Medium)
 - [1282. Group the People Given the Group Size They Belong To](/Hash_Table/1282.md) (Medium)
+- [1296. Divide Array in Sets of K Consecutive Numbers](/Hash_Table/1296.md) (Medium)
 - [1338. Reduce Array Size to The Half](/Hash_Table/1338.md) (Medium)
 - [1636. Sort Array by Increasing Frequency](/Hash_Table/1636.md)  (Easy)
 - [1726. Tuple with Same Product](/Hash_Table/1726.md) (Medium)
