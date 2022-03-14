@@ -105,6 +105,7 @@
 - [532. K-diff Pairs in an Array](/Hash_Table/532.md) (Medium)
 - [560. Subarray Sum Equals K](/Hash_Table/560.md) (Medium)
 - [567. Permutation in String](/Hash_Table/567.md) (Medium)
+- [846. Hand of Straights](/Hash_Table/846.md) (Medium)
 - [1282. Group the People Given the Group Size They Belong To](/Hash_Table/1282.md) (Medium)
 - [1338. Reduce Array Size to The Half](/Hash_Table/1338.md) (Medium)
 - [1636. Sort Array by Increasing Frequency](/Hash_Table/1636.md)  (Easy)
