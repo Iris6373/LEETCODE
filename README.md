@@ -285,6 +285,7 @@
 - [726. Number of Atoms](/Stack/726.md) (Hard)
 - [739. Daily Temperatures](/Stack/739.md) (Medium)
 - [853. Car Fleet](/Stack/853.md) (Medium)
+- [895. Maximum Frequency Stack](/Stack/895.md) (Hard)
 - [946. Validate Stack Sequences](/Stack/946.md) (Medium)
 - [1003. Check If Word Is Valid After Substitutions](/Stack/1003.md) (Medium)
 - [1081. Smallest Subsequence of Distinct Characters](/Stack/1081.md) (Medium)
