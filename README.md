@@ -289,6 +289,7 @@
 - [946. Validate Stack Sequences](/Stack/946.md) (Medium)
 - [1003. Check If Word Is Valid After Substitutions](/Stack/1003.md) (Medium)
 - [1081. Smallest Subsequence of Distinct Characters](/Stack/1081.md) (Medium)
+- [1172. Dinner Plate Stacks](/Stack/1172.md) (Hard)
 - [1249. Minimum Remove to Make Valid Parentheses](/Stack/1249.md) (Medium)
 - [1673. Find the Most Competitive Subsequence](/Stack/1673.md) (Medium)
 - [2197. Replace Non-Coprime Numbers in Array](/Contests/Weekly_Contest_283/2197.md) (Hard)
