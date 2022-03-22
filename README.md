@@ -427,6 +427,7 @@
 - [130. Surrounded Regions](/DFS/130.md) (Medium)
 - [200. Number of Islands](/DFS/200.md) (Medium)
 - [463. Island Perimeter](/DFS/463.md) (Easy)
+- [690. Employee Importance](/DFS/690.md) (Medium)
 - [695. Max Area of Island](/DFS/695.md) (Medium)
 - [827. Making A Large Island](/DFS/827.md) (Hard)
 - [797. All Paths From Source to Target](/DFS/797.md) (Medium)
