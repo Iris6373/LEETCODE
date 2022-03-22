@@ -224,6 +224,7 @@
 - [738. Monotone Increasing Digits](/Math/738.md) (Medium)
 - [902. Numbers At Most N Given Digit Set](/Math/902.md) (Hard)
 - [1276. Number of Burgers with No Waste of Ingredients](/Math/1276.md) (Easy)
+- [1573. Number of Ways to Split a String](/Math/1573.md) (Medium)
 - [1922. Count Good Numbers](/Contests/Weekly_Contest_248/1922.md) (Medium)
 - [1979. Find Greatest Common Divisor of Array](/Contests/Weekly_Contest_255/1979.md) (Easy)
 - [2139. Minimum Moves to Reach Target Score](/Contests/Weekly_Contest_276/2139.md) (Medium)
