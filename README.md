@@ -7,7 +7,7 @@
 - [48. Rotate Image](/ARRAYS/48.md) (Medium) 
 - [56. Merge Intervals](/ARRAYS/56.md) (Medium) 
 - [57. Insert Interval](/ARRAYS/57.md) (Medium) 
-- [80. Remove Duplicates from Sorted Array II](/ARRAYS/80.md) (Medium)
+- [80. Remove Duplicates from Sorted Array II](/ARRAYS/80.md) (Medium) 
 - [121. Best Time to Buy and Sell Stock](/ARRAYS/121.md) (Easy)
 - [122. Best Time to Buy and Sell Stock II](/ARRAYS/122.md) (Medium)
 - [189. Rotate Array](/ARRAYS/189.md) (Medium)
