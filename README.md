@@ -304,6 +304,7 @@
 - [435. Non-overlapping Intervals](/Greedy/435.md) (Medium)
 - [452. Minimum Number of Arrows to Burst Balloons](/Greedy/452.md) (Medium)
 - [781. Rabbits in Forest](/Greedy/781.md) (Medium)
+- [991. Broken Calculator](/Greedy/991.md) (Medium)
 - [1053. Previous Permutation With One Swap](/Greedy/1053.md) (Medium)
 - [1503. Last Moment Before All Ants Fall Out of a Plank](/Greedy/1503.md) (Medium)
 - [1663. Smallest String With A Given Numeric Value](/Greedy/1663.md) (Medium)
