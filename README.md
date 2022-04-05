@@ -353,6 +353,7 @@
 - [413. Arithmetic Slices](/Dynamic_Programming/413.md) (Medium)
 - [516. Longest Palindromic Subsequence](/Dynamic_Programming/516.md) (Medium)
 - [518. Coin Change 2](/Dynamic_Programming/518.md) (Medium)
+- [650. 2 Keys Keyboard](/Dynamic_Programming/650.md) (Medium)
 - [673. Number of Longest Increasing Subsequence](/Dynamic_Programming/673.md) (Medium)
 - [674. Longest Continuous Increasing Subsequence](/Dynamic_Programming/674.md) (Easy)
 - [740. Delete and Earn](/Dynamic_Programming/740.md) (Medium)
