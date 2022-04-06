@@ -223,6 +223,7 @@
 - [441. Arranging Coins](/Math/441.md) (Easy)
 - [738. Monotone Increasing Digits](/Math/738.md) (Medium)
 - [902. Numbers At Most N Given Digit Set](/Math/902.md) (Hard)
+- [1103. Distribute Candies to People](/Math/1103.md) (Easy)
 - [1276. Number of Burgers with No Waste of Ingredients](/Math/1276.md) (Easy)
 - [1573. Number of Ways to Split a String](/Math/1573.md) (Medium)
 - [1922. Count Good Numbers](/Contests/Weekly_Contest_248/1922.md) (Medium)
