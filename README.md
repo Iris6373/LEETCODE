@@ -215,6 +215,7 @@
 - [1404. Number of Steps to Reduce a Number in Binary Representation to One](Bit_Manipulation/1404.md) (Medium)
 - [1829. Maximum XOR for Each Query](Bit_Manipulation/1829.md) (Medium)
 - [2044. Count Number of Maximum Bitwise-OR Subsets](/Contests/Weekly_Contest_263/2042.md) (Medium)
+- [2220. Minimum Bit Flips to Convert Number](Bit_Manipulation/2220.md) (Easy)
 
 
 ### [Math](/Math)
