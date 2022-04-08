@@ -137,9 +137,10 @@
 - [1413. Minimum Value to Get Positive Step by Step Sum](/Prefix_Sum/1413.md) (Easy)
 - [1744. Can You Eat Your Favorite Candy on Your Favorite Day?](/Prefix_Sum/1744.md) (Medium)
 - [1769. Minimum Number of Operations to Move All Balls to Each Box](/Prefix_Sum/1769.md) (Medium)
+- [2017. Grid Game](/Prefix_Sum/2017.md) (Medium)
 - [2055. Plates Between Candles](/Prefix_Sum/2055.md) (Medium)
-- [2017. Grid Game]/Prefix_Sum/2017.md) (Medium)
 - [2155. All Divisions With the Highest Score of a Binary Array](/Contests/Weekly_Contest_278/2155.md) (Medium)
+- [2222. Number of Ways to Select Buildings](/Prefix_Sum/2222.md) (Medium)
 
 
 ### [Sliding Window](/Sliding_Window)
