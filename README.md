@@ -79,6 +79,7 @@
 - [2191. Sort the Jumbled Numbers](/Contests/Biweekly_Contest_73/2191.md) (Medium)
 - [2202. Maximize the Topmost Element After K Moves](/Contests/Weekly_Contest_284/2202.md) (Medium)
 - [2221. Find Triangular Sum of an Array](/ARRAYS/2221.md) (Medium)
+- [2231. Largest Number After Digit Swaps by Parity](/Contests/Weekly_Contest_288/2231.md) (Easy)
 
 
 ### [Linked_List](/Linked_List)
