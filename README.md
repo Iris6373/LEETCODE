@@ -317,6 +317,7 @@
 - [954. Array of Doubled Pairs](/Greedy/954.md) (Medium)
 - [991. Broken Calculator](/Greedy/991.md) (Medium)
 - [1024. Video Stitching](/Greedy/1024.md) (Medium)
+- [1326. Minimum Number of Taps to Open to Water a Garden](/Greedy/1326.md) (Hard)
 - [1053. Previous Permutation With One Swap](/Greedy/1053.md) (Medium)
 - [1503. Last Moment Before All Ants Fall Out of a Plank](/Greedy/1503.md) (Medium)
 - [1663. Smallest String With A Given Numeric Value](/Greedy/1663.md) (Medium)
