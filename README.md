@@ -422,6 +422,7 @@
 - [1104. Path In Zigzag Labelled Binary Tree](/Tree/1104.md) (Medium) 
 - [1110. Delete Nodes And Return Forest](/Tree/1110.md) (Medium) 
 - [1315. Sum of Nodes with Even-Valued Grandparent](/Tree/1315.md) (Medium) 
+- [1325. Delete Leaves With a Given Value](/Tree/1325.md) (Medium) 
 - [1339. Maximum Product of Splitted Binary Tree](/Tree/1339.md) (Medium) 
 - [1376. Time Needed to Inform All Employees](/Tree/1376.md) (Medium) 
 - [1443. Minimum Time to Collect All Apples in a Tree](/Tree/1443.md) (Medium) 
