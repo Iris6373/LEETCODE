@@ -456,6 +456,7 @@
 
 - [207. Course Schedule](/Topological_Sort/207.md) (Medium)
 - [210. Course Schedule II](/Topological_Sort/210.md) (Medium)
+- [1557. Minimum Number of Vertices to Reach All Nodes](/Topological_Sort/1557.md) (Medium)
 
 
 ### [Dijkstra's Algorithm](Dijkstra's_Algorithm)
