@@ -316,6 +316,7 @@
 - [781. Rabbits in Forest](/Greedy/781.md) (Medium)
 - [954. Array of Doubled Pairs](/Greedy/954.md) (Medium)
 - [991. Broken Calculator](/Greedy/991.md) (Medium)
+- [1024. Video Stitching](/Greedy/1024.md) (Medium)
 - [1053. Previous Permutation With One Swap](/Greedy/1053.md) (Medium)
 - [1503. Last Moment Before All Ants Fall Out of a Plank](/Greedy/1503.md) (Medium)
 - [1663. Smallest String With A Given Numeric Value](/Greedy/1663.md) (Medium)
