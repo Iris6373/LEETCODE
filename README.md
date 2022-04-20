@@ -434,6 +434,7 @@
 - [1443. Minimum Time to Collect All Apples in a Tree](/Tree/1443.md) (Medium) 
 - [1448. Count Good Nodes in Binary Tree](/Tree/1448.md) (Medium) 
 - [1609. Even Odd Tree](/Tree/1609.md) (Medium) 
+- [2003. Smallest Missing Genetic Value in Each Subtree](/Tree/2003.md) (Medium) 
 - [2096. Step-By-Step Directions From a Binary Tree Node to Another](/Contests/Weekly_Contest_270/2096.md) (Medium)
 - [2196. Create Binary Tree From Descriptions](/Contests/Weekly_Contest_283/2196.md) (Medium)
 
