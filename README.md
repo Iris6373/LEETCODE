@@ -51,6 +51,7 @@
 - [1974. Minimum Time to Type Word Using Special Typewriter](/Contests/Biweekly_Contest_59/1974.md) (Easy)
 - [1975. Maximum Matrix Sum](/Contests/Biweekly_Contest_59/1975.md) (Medium)
 - [2006. Count Number of Pairs With Absolute Difference K](/Contests/Biweekly_Contest_61/2006.md) (Easy) 
+- [2018. Check if Word Can Be Placed In Crossword](/ARRAYS/2018.md) (Medium)
 - [2037. Minimum Number of Moves to Seat Everyone](/Contests/Biweekly_Contest_63/2037.md) (Easy)
 - [2069. Walking Robot Simulation II](/Contests/Biweekly_Contest_65/2069.md) (Medium)
 - [2073. Time Needed to Buy Tickets](/Contests/Weekly_Contest_267/2073.md) (Easy)
