@@ -260,6 +260,7 @@
 - [443. String Compression](/Strings/433.md) (Medium)
 - [520. Detect Capital](/Strings/520.md) (Easy)
 - [821. Shortest Distance to a Character](/Strings/821.md) (Easy)
+- [844. Backspace String Compare](/Strings/844.md) (Easy)
 - [929. Unique Email Addresses](/Strings/929.md) (Easy)
 - [1047. Remove All Adjacent Duplicates In String](/Strings/1047.md) (Easy)
 - [1071. Greatest Common Divisor of Strings](/Strings/1071.md) (Easy)
