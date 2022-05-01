@@ -129,6 +129,7 @@
 - [2200. Find All K-Distant Indices in an Array](/Contests/Weekly_Contest_284/2200.md) (Easy)
 - [2201. Count Artifacts That Can Be Extracted](/Contests/Weekly_Contest_284/2201.md) (Medium)
 - [2206. Divide Array Into Equal Pairs](/Contests/Biweekly_Contest_74/2206.md) (Easy)
+- [2260. Minimum Consecutive Cards to Pick Up](/Contests/Weekly_Contest_291/2260.md) (Medium)
 
 
 ### [Prefix Sum](/Prefix_Sum)
