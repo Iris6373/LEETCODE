@@ -289,6 +289,7 @@
 - [2185. Counting Words With a Given Prefix](/Contests/Weekly_Contest_282/2185.md) (Easy)
 - [2194. Cells in a Range on an Excel Sheet](/Contests/Weekly_Contest_283/2194.md) (Easy)
 - [2232. Minimize Result by Adding Parentheses to Expression](/Contests/Weekly_Contest_288/2232.md) (Medium)
+- [2259. Remove Digit From Number to Maximize Result](/Contests/Weekly_Contest_291/2259.md) (Easy)
 
 
 ### [Stack](/Stack)
