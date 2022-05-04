@@ -115,6 +115,7 @@
 - [1296. Divide Array in Sets of K Consecutive Numbers](/Hash_Table/1296.md) (Medium)
 - [1338. Reduce Array Size to The Half](/Hash_Table/1338.md) (Medium)
 - [1636. Sort Array by Increasing Frequency](/Hash_Table/1636.md) (Easy)
+- [1679. Max Number of K-Sum Pairs](/Hash_Table/1679.md) (Medium)
 - [1726. Tuple with Same Product](/Hash_Table/1726.md) (Medium)
 - [1748. Sum of Unique Elements](/Contests/Biweekly_Contest_45/1748.md) (Easy)
 - [2001. Number of Pairs of Interchangeable Rectangles](/Hash_Table/2001.md) (Medium)
