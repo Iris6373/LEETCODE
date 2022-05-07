@@ -304,6 +304,7 @@
 - [316. Remove Duplicate Letters](/Stack/316.md) (Medium)
 - [394. Decode String](/Stack/394.md) (Medium)
 - [402. Remove K Digits](/Stack/402.md) (Medium)
+- [456. 132 Pattern](/Stack/456.md) (Medium)
 - [726. Number of Atoms](/Stack/726.md) (Hard)
 - [739. Daily Temperatures](/Stack/739.md) (Medium)
 - [853. Car Fleet](/Stack/853.md) (Medium)
