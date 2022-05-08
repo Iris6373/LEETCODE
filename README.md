@@ -460,6 +460,7 @@
 
 - [130. Surrounded Regions](/DFS/130.md) (Medium)
 - [200. Number of Islands](/DFS/200.md) (Medium)
+- [341. Flatten Nested List Iterator](/DFS/341.md) (Medium)
 - [463. Island Perimeter](/DFS/463.md) (Easy)
 - [690. Employee Importance](/DFS/690.md) (Medium)
 - [695. Max Area of Island](/DFS/695.md) (Medium)
