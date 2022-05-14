@@ -480,6 +480,7 @@
 
 
 ### [Dijkstra's Algorithm](Dijkstra's_Algorithm)
+- [743. Network Delay Time](Dijkstra's_Algorithm/743.md) (Medium)
 - [1976. Number of Ways to Arrive at Destination](Dijkstra's_Algorithm/1976.md) (Medium)
 
 
