@@ -456,6 +456,7 @@
 - [733. Flood Fill](/BFS/733.md) (Easy)
 - [773. Sliding Puzzle](/BFS/773.md) (Hard)
 - [994. Rotting Oranges](/BFS/994.md) (Medium)
+- [1091. Shortest Path in Binary Matrix](/BFS/1091.md) (Medium)
 - [1306. Jump Game III](/BFS/1306.md) (Medium)
 - [1345. Jump Game IV](/BFS/1345.md) (Hard)
 
