@@ -402,6 +402,7 @@
 
 - [98. Validate Binary Search Tree](/Tree/98.md) (Medium)
 - [99. Recover Binary Search Tree](/Tree/99.md) (Medium)
+- [101. Symmetric Tree](/Tree/101.md) (Medium)
 - [102. Binary Tree Level Order Traversal](/Tree/102.md) (Medium)
 - [110. Balanced Binary Tree](/Tree/110.md) (Easy)
 - [111. Minimum Depth of Binary Tree](/Tree/111.md) (Easy)
