@@ -441,6 +441,7 @@
 - [1325. Delete Leaves With a Given Value](/Tree/1325.md) (Medium) 
 - [1339. Maximum Product of Splitted Binary Tree](/Tree/1339.md) (Medium) 
 - [1376. Time Needed to Inform All Employees](/Tree/1376.md) (Medium) 
+- [1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree](/Tree/1379.md) (Medium) 
 - [1443. Minimum Time to Collect All Apples in a Tree](/Tree/1443.md) (Medium) 
 - [1448. Count Good Nodes in Binary Tree](/Tree/1448.md) (Medium) 
 - [1609. Even Odd Tree](/Tree/1609.md) (Medium) 
