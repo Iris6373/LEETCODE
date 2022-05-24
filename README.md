@@ -408,6 +408,7 @@
 - [101. Symmetric Tree](/Tree/101.md) (Easy)
 - [102. Binary Tree Level Order Traversal](/Tree/102.md) (Medium)
 - [105. Construct Binary Tree from Preorder and Inorder Traversal](/Tree/105.md) (Medium)
+- [106. Construct Binary Tree from Inorder and Postorder Traversal](/Tree/106.md) (Medium)
 - [110. Balanced Binary Tree](/Tree/110.md) (Easy)
 - [111. Minimum Depth of Binary Tree](/Tree/111.md) (Easy)
 - [112. Path Sum](/Tree/112.md) (Easy)
