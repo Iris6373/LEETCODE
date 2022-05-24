@@ -296,6 +296,7 @@
 ### [Stack](/Stack)
 
 - [20. Valid Parentheses](/Stack/20.md) (Easy)
+- [32. Longest Valid Parentheses](/Stack/32.md) (Hard)
 - [84. Largest Rectangle in Histogram](/Stack/84.md) (Hard)
 - [85. Maximal Rectangle](/Stack/85.md) (Hard)
 - [150. Evaluate Reverse Polish Notation](/Stack/150.md) (Medium)
