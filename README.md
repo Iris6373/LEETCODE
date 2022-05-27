@@ -9,6 +9,7 @@
 - [57. Insert Interval](/ARRAYS/57.md) (Medium)  
 - [73. Set Matrix Zeroes](/ARRAYS/73.md) (Medium) 
 - [80. Remove Duplicates from Sorted Array II](/ARRAYS/80.md) (Medium) 
+- [88. Merge Sorted Array](/ARRAYS/88.md) (Easy)
 - [121. Best Time to Buy and Sell Stock](/ARRAYS/121.md) (Easy)
 - [122. Best Time to Buy and Sell Stock II](/ARRAYS/122.md) (Medium)
 - [189. Rotate Array](/ARRAYS/189.md) (Medium)
