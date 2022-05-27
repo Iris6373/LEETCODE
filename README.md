@@ -14,6 +14,7 @@
 - [122. Best Time to Buy and Sell Stock II](/ARRAYS/122.md) (Medium)
 - [189. Rotate Array](/ARRAYS/189.md) (Medium)
 - [228. Summary Ranges](/ARRAYS/228.md) (Easy)
+- [287. Find the Duplicate Number](/ARRAYS/287.md) (Medium)
 - [289. Game of Life](/ARRAYS/289.md) (Medium)
 - [419. Battleships in a Board](/ARRAYS/419.md) (Medium)
 - [442. Find All Duplicates in an Array](/ARRAYS/442.md) (Medium)
