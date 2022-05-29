@@ -225,6 +225,7 @@
 - [1009. Complement of Base 10 Integer](Bit_Manipulation/1009.md) (Easy)
 - [1255. Maximum Score Words Formed by Letter](Bit_Manipulation/1255.md) (Hard)
 - [1318. Minimum Flips to Make a OR b Equal to c](Bit_Manipulation/1255.md) (Medium)
+- [1342. Number of Steps to Reduce a Number to Zero](Bit_Manipulation/1342.md) (Medium)
 - [1558. Minimum Numbers of Function Calls to Make Target Array](Bit_Manipulation/1558.md) (Medium)
 - [1680. Concatenation of Consecutive Binary Numbers](Bit_Manipulation/1680.md) (Medium)
 - [1404. Number of Steps to Reduce a Number in Binary Representation to One](Bit_Manipulation/1404.md) (Medium)
