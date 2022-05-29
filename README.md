@@ -218,6 +218,7 @@
 - [201. Bitwise AND of Numbers Range](Bit_Manipulation/201.md) (Medium)
 - [231. Power of Two](Bit_Manipulation/231.md) (Easy)
 - [268. Missing Number](Bit_Manipulation/268.md) (Easy)
+- [318. Maximum Product of Word Lengths](Bit_Manipulation/318.md) (Medium)
 - [476. Number Complement](Bit_Manipulation/476.md) (Easy)
 - [477. Total Hamming Distance](Bit_Manipulation/477.md) (Medium)
 - [645. Set Mismatch](Bit_Manipulation/645.md) (Easy)
