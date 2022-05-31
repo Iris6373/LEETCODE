@@ -212,6 +212,7 @@
 
 ### [Bit Manipulation](/Bit_Manipulation)
 
+- [29. Divide Two Integers](Bit_Manipulation/29.md) (Medium)
 - [89. Gray Code](Bit_Manipulation/89.md) (Medium)
 - [136. Single Number](Bit_Manipulation/136.md) (Easy)
 - [191. Number of 1 Bits](Bit_Manipulation/191.md) (Easy)
