@@ -30,6 +30,7 @@
 - [763. Partition Labels](/ARRAYS/763.md) (Medium)
 - [838. Push Dominoes](/ARRAYS/838.md) (Medium)
 - [845. Longest Mountain in Array](/ARRAYS/845.md) (Medium)
+- [867. Transpose Matrix](/ARRAYS/867.md) (Easy)
 - [883. Projection Area of 3D Shapes](/ARRAYS/883.md) (Easy) 
 - [908. Smallest Range I](/ARRAYS/908.md) (Easy)
 - [918. Maximum Sum Circular Subarray](/ARRAYS/918.md) (Medium)
