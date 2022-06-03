@@ -43,6 +43,7 @@
 - [1288. Remove Covered Intervals](/ARRAYS/1288.md) (Medium)
 - [1291. Sequential Digits](/ARRAYS/1291.md) (Medium)
 - [1329. Sort the Matrix Diagonally](/ARRAYS/1329.md) (Medium)
+- [1480. Running Sum of 1d Array](/ARRAYS/1480.md) (Easy)
 - [1672. Richest Customer Wealth](/ARRAYS/1672.md) (Easy)
 - [1749. Maximum Absolute Sum of Any Subarray](/Contests/Biweekly_Contest_45/1749.md) (Easy)
 - [1886. Determine Whether Matrix Can Be Obtained By Rotation](/ARRAYS/1886.md) (Easy)
