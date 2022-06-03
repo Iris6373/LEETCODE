@@ -16,6 +16,7 @@
 - [228. Summary Ranges](/ARRAYS/228.md) (Easy)
 - [287. Find the Duplicate Number](/ARRAYS/287.md) (Medium)
 - [289. Game of Life](/ARRAYS/289.md) (Medium)
+- [304. Range Sum Query 2D - Immutable](/ARRAYS/304.md) (Medium)
 - [419. Battleships in a Board](/ARRAYS/419.md) (Medium)
 - [442. Find All Duplicates in an Array](/ARRAYS/442.md) (Medium)
 - [448. Find All Numbers Disappeared in an Array](/ARRAYS/448.md) (Easy)
