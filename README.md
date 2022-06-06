@@ -95,6 +95,7 @@
 - [138. Copy List with Random Pointer](/Linked_List/138.md) (Medium)
 - [141. Linked List Cycle](/Linked_List/141.md) (Easy)
 - [142. Linked List Cycle II](/Linked_List/142.md) (Medium)
+- [160. Intersection of Two Linked Lists](/Linked_List/160.md) (Easy)
 - [876. Middle of the Linked List](/Linked_List/876.md) (Easy)
 - [1290. Convert Binary Number in a Linked List to Integer](/Linked_List/1290.md) (Easy)
 - [2130. Maximum Twin Sum of a Linked List](/Contests/Biweekly_Contest_69/2130.md) (Easy)
