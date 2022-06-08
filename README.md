@@ -280,6 +280,7 @@
 - [1071. Greatest Common Divisor of Strings](/Strings/1071.md) (Easy)
 - [1209. Remove All Adjacent Duplicates in String II](/Strings/1209.md) (Medium)
 - [1324. Print Words Vertically](/Strings/1324.md) (Medium)
+- [1332. Remove Palindromic Subsequences](/Strings/1332.md) (Easy)
 - [1446. Consecutive Characters](/Strings/1446.md) (Easy)
 - [1513. Number of Substrings With Only 1s](/Strings/1513.md) (Medium)
 - [1629. Slowest Key](/Strings/1629.md) (Easy)
