@@ -406,6 +406,7 @@
 - [746. Min Cost Climbing Stairs](/Dynamic_Programming/746.md) (Easy)
 - [799. Champagne Tower](/Dynamic_Programming/799.md) (Medium)
 - [823. Binary Trees With Factors](/Dynamic_Programming/823.md) (Medium)
+- [1048. Longest String Chain](/Dynamic_Programming/1048.md) (Medium)
 - [1137. N-th Tribonacci Number](/Dynamic_Programming/1137.md) (Easy)
 - [1143. Longest Common Subsequence](/Dynamic_Programming/1143.md) (Medium)
 - [1220. Count Vowels Permutation](/Dynamic_Programming/1220.md) (Hard)
