@@ -172,6 +172,7 @@
 
 ### [Two Pointers](/Two_Pointers)
 
+- [5. Longest Palindromic Substring](/Two_Pointers/5.md) (Medium)
 - [15. 3Sum](/Two_Pointers/15.md) (Medium)
 - [16. 3Sum Closest](/Two_Pointers/16.md) (Medium)
 - [31. Next Permutation](/Two_Pointers/31.md) (Medium)
