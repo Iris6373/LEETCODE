@@ -413,6 +413,7 @@
 - [1220. Count Vowels Permutation](/Dynamic_Programming/1220.md) (Hard)
 - [1235. Maximum Profit in Job Scheduling](/Dynamic_Programming/1235.md) (Hard)
 - [1277. Count Square Submatrices with All Ones](/Dynamic_Programming/1277.md) (Medium)
+- [1463. Cherry Pickup II](/Dynamic_Programming/1463.md) (Hard)
 - [1641. Count Sorted Vowel Strings](/Dynamic_Programming/1641.md) (Medium)
 - [1770. Maximum Score from Performing Multiplication Operations](/Dynamic_Programming/1770.md) (Medium)
 - [2008. Maximum Earnings From Taxi](/Dynamic_Programming/2008.md) (Medium)
