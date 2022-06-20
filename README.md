@@ -395,6 +395,7 @@
 - [376. Wiggle Subsequence](/Dynamic_Programming/376.md) (Medium)
 - [377. Combination Sum IV](/Dynamic_Programming/377.md) (Medium)
 - [413. Arithmetic Slices](/Dynamic_Programming/413.md) (Medium)
+- [416. Partition Equal Subset Sum](/Dynamic_Programming/416.md) (Medium)
 - [474. Ones and Zeroes](/Dynamic_Programming/474.md) (Medium)
 - [516. Longest Palindromic Subsequence](/Dynamic_Programming/516.md) (Medium)
 - [518. Coin Change 2](/Dynamic_Programming/518.md) (Medium)
