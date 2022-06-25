@@ -527,4 +527,5 @@
 - [721. Accounts Merge](/Union_Find/721.md) (Medium)
 - [952. Largest Component Size by Common Factor](/Union_Find/952.md) (Hard)
 - [2092. Find All People With Secret](/Contests/Weekly_Contest_269/2092.md) (Hard)
+- [2316. Count Unreachable Pairs of Nodes in an Undirected Graph](/Biweekly_Contest_71/2316.md) (Medium)
 
