@@ -242,6 +242,7 @@
 - [1829. Maximum XOR for Each Query](Bit_Manipulation/1829.md) (Medium)
 - [2044. Count Number of Maximum Bitwise-OR Subsets](/Contests/Weekly_Contest_263/2042.md) (Medium)
 - [2220. Minimum Bit Flips to Convert Number](Bit_Manipulation/2220.md) (Easy)
+- [2317. Maximum XOR After Operations](/Contests/Biweekly_Contest_81/2317.md) (Medium)
 
 
 ### [Math](/Math)
