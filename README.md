@@ -308,6 +308,7 @@
 - [2194. Cells in a Range on an Excel Sheet](/Contests/Weekly_Contest_283/2194.md) (Easy)
 - [2232. Minimize Result by Adding Parentheses to Expression](/Contests/Weekly_Contest_288/2232.md) (Medium)
 - [2259. Remove Digit From Number to Maximize Result](/Contests/Weekly_Contest_291/2259.md) (Easy)
+- [2315. Count Asterisks](/Contests/Biweekly_Contest_71/2315.md) (Easy)
 
 
 ### [Stack](/Stack)
