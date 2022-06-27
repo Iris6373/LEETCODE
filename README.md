@@ -351,6 +351,7 @@
 - [1053. Previous Permutation With One Swap](/Greedy/1053.md) (Medium)
 - [1503. Last Moment Before All Ants Fall Out of a Plank](/Greedy/1503.md) (Medium)
 - [1663. Smallest String With A Given Numeric Value](/Greedy/1663.md) (Medium)
+- [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](/Greedy/1689.md) (Medium)
 - [1996. The Number of Weak Characters in the Game](/Greedy/1996.md) (Medium)
 - [2160. Minimum Sum of Four Digit Number After Splitting Digits](/Contests/Biweekly_Contest_71/2160.md) (Medium)
 
