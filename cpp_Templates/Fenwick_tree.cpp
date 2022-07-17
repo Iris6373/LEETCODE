@@ -10,8 +10,7 @@ public:
     
     void update(int index, int val) {
         while (index <= 1e6+1e6+5) {
-            if (fen[index]+val >= 0) fen[index] += val;
-            else fen[index] = 0;
+            fen[index] += val;
             index += (index & (-index));
         }
     }
