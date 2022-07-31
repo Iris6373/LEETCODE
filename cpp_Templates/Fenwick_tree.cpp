@@ -2,10 +2,8 @@ class BIT {
 private:
     vector<int> fen;
 public:
-    BIT(vector<int>& v) {
-        for (int i=0;i<v.size();i++) {
-            fen.push_back(v[i]);
-        }
+    BIT(int n) {
+        fen.assign(n+1, 0);
     }
     
     void update(int index, int val) {
@@ -40,5 +38,7 @@ public:
     }
 };
 
-// vector<int> fen(1e6+1e6+5, 0)
-// BIT bit(fen)
+// vector<int> nums;
+// BIT *bit = new BIT(n);
+// for (i=0;i<n;i++) bit->update(i+1, nums[i]);
+
