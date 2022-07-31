@@ -535,3 +535,7 @@
 - [2092. Find All People With Secret](/Contests/Weekly_Contest_269/2092.md) (Hard)
 - [2316. Count Unreachable Pairs of Nodes in an Undirected Graph](/Biweekly_Contest_71/2316.md) (Medium)
 
+
+### [Segment_Tree](/Segment_Tree)
+
+- [307. Range Sum Query - Mutable](/Segment_Tree/307.md) (Medium)
